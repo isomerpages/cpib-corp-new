@@ -1,5 +1,5 @@
 ---
-title: Measure of CPIB’s Success – from Key Problem article
+title: Measure of CPIB's Success – from Key Problem article
 permalink: /measureofsuccess/
 ---
 **Dr Goh Keng Swee: Measure of CPIB’s Success – from Key Problem article published in The Straits Times, 20 December 1967, Page 12**

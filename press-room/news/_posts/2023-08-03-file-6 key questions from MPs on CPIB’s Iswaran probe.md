@@ -1,5 +1,5 @@
 ---
-title: 6 key questions from MPs on CPIB’s Iswaran probe
+title: 6 key questions from MPs on CPIB's Iswaran probe
 date: 2023-08-03
 layout: file
 description: ""

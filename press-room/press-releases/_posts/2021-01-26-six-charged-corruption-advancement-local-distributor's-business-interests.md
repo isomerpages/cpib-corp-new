@@ -1,11 +1,12 @@
 ---
 layout: post
-title: "Six Charged with Corruption for Advancement of Local Distributor’s Business Interests"
-permalink: /press-room/press-releases/six-charged-corruption-advancement-local-distributor’s-business-interests/
+title: "Six Charged with Corruption for Advancement of Local Distributor's Business Interests"
+permalink: /press-room/press-releases/six-charged-corruption-advancement-local-distributor's-business-interests/
 ---
+
 On 26 January 2021, six individuals were charged in Court for allegedly committing corrupt acts to advance the business interests of Kodi Engineering Services Pte Ltd (“Kodi”), a distributor of surveying instruments for Sokkia Singapore Positioning Sales Pte Ltd (“Sokkia”). Neo Soon Hock (“Neo”), the Managing Director of Kodi, had allegedly given corrupt gratifications totalling $218,580 to various parties, including Tan Jianwen (“Tan”), a Regional Sales Manager of Sokkia, as well as employees of other companies in the construction and engineering sectors which would typically use such instruments.
 
-2\.       The six individuals, including Neo and Tan, were charged with allegedly committing the following offences:
+2\. The six individuals, including Neo and Tan, were charged with allegedly committing the following offences:
 
 a) **Neo Soon Hock (梁顺福, 60-year-old male Singaporean)**, Managing Director of Kodi at the material time
 
@@ -33,7 +34,7 @@ f) **Chew Kok An (周国安, 41-year-old male Singaporean)**, Senior Purchaser a
 
 i. Corruptly accepting gratification of $1,000 from Neo sometime in September 2014 as a reward to further Kodi’s business interests with Yau Lee. This constituted one charge for an offence punishable under Section 6(a) of the Prevention of Corruption Act (Chapter 241).
 
-3\.       Eight other persons involved in the case included land surveyors or purchasers from the construction and engineering sectors. They were prosecuted and convicted for corruption offences in 2020 as follows:
+3\. Eight other persons involved in the case included land surveyors or purchasers from the construction and engineering sectors. They were prosecuted and convicted for corruption offences in 2020 as follows:
 
 a) **Subaindran Ratnarajah Supramaniam**, Survey Manager at CTCI Singapore Pte Ltd at the material time, for accepting bribes totalling $17,795. He was sentenced to a fine of $28,000 and penalty of $17,795.
 
@@ -51,16 +52,16 @@ g) **Chia Keu Chuan**, Resident Surveyor at Leighton Contr (Asia) Limited at the
 
 h) **Tan Heng Hwa, 陳兴华**, Director at LCH Engineering and Pipe Jacking Pte Ltd at the material time, for accepting bribes totalling $1,200. He was sentenced to a fine of $2,000 and penalty of $1,200.
 
-4\.        Singapore adopts a strict zero-tolerance approach towards corruption. Any person who is convicted of a corruption offence can be fined up to $100,000 or sentenced to an imprisonment term of up to 5 years or to both.
+4\. Singapore adopts a strict zero-tolerance approach towards corruption. Any person who is convicted of a corruption offence can be fined up to $100,000 or sentenced to an imprisonment term of up to 5 years or to both.
 
-5\.        The CPIB looks into all corruption complaints and reports, including anonymous ones, and can be reached via the following channels:
+5\. The CPIB looks into all corruption complaints and reports, including anonymous ones, and can be reached via the following channels:
 
 a) Call the Duty Officer at 1800-376-0000;<br />
 b) Lodge an [e-Complaint](/e-services/e-complaint-for-corrupt-conduct);<br>
 c) Email us at <a class="spamspan" href="mailto:report@cpib.gov.sg">report@cpib.gov.sg</a>; or<br />
 d) Write to us at the CPIB Headquarters @ 2 Lengkok Bahru, S159047.
 
-6\.        Where possible, the report should include the following information:
+6\. Where possible, the report should include the following information:
 
 a) Where, when and how the alleged corrupt act happened?<br />
 b) Who was involved and what were their roles?<br />
