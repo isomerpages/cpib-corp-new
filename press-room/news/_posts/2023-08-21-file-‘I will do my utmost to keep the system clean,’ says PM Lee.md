@@ -1,5 +1,5 @@
 ---
-title: ‘I will do my utmost to keep the system clean,' says PM Lee
+title: 'I will do my utmost to keep the system clean,' says PM Lee
 date: 2023-08-21
 layout: file
 description: ""
