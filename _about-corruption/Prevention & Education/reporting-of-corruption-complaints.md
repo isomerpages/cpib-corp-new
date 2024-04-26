@@ -16,7 +16,7 @@ to use the following channels to reach us:</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="come down personally" src="/images/icon_come-down.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/icon_come-down.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
