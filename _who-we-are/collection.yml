@@ -2,6 +2,7 @@ collections:
   who-we-are:
     output: true
     order:
+      - Our Heritage.md
       - Our Corporate Philosophy/.keep
       - Our Corporate Philosophy/mission-vision-core-values.md
       - Our Corporate Philosophy/pledge.md
