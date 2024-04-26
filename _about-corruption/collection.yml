@@ -2,7 +2,6 @@ collections:
   about-corruption:
     output: true
     order:
-      - Resources.md
       - Prevention & Education/.keep
       - Prevention & Education/Definition Of Corruption.md
       - Prevention & Education/singapore-s-corruption-control-framework.md
@@ -19,4 +18,5 @@ collections:
       - Case Studies/public-sector.md
       - Case Studies/private-sector.md
       - Case Studies/stories-of-integrity.md
+      - Resources.md
       - resources.md
