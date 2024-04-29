@@ -16,17 +16,17 @@ description: ""
 <div class="isomer-card-title">Corruzione Web Game</div>
 <div class="isomer-card-link">Click here</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/ss-iso-37001/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="SS ISO 37001" src="/images/research-rm_iso.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">SS ISO 37001</div><div class="isomer-card-link">Click here</div></div></a>
-<a rel="noopener noreferrer nofollow" href="/videos/" class="isomer-card">
+</a><a rel="noopener noreferrer nofollow" href="/pact/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="PACT" src="/images/research-rm_pact.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">PACT</div><div class="isomer-card-link">Click here</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/ss-iso-37001/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Videos" src="/images/resource_videos.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="SS ISO 37001" src="/images/research-rm_iso.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Videos</div>
+<div class="isomer-card-title">SS ISO 37001</div>
 <div class="isomer-card-link">Click here</div>
 </div>
-</a>
+</a><a rel="noopener noreferrer nofollow" href="/videos/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Videos" src="/images/resource_videos.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Videos</div><div class="isomer-card-link">Click here</div></div></a>
 </div>
 <p></p>
