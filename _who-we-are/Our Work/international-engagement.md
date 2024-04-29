@@ -25,9 +25,6 @@ to allegations of grand corruption. CPIB also undertakes speaking engagements
 at regional and international capacity building seminars where we share
 Singapore’s anti-corruption experience. Basic information on the various
 anti-corruption platforms which CPIB is involved in may be found below.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="34" width="150" alt="ADB OECD" src="/images/who-we-are_ie-abd-oecd.jpg">
-</div>
 <h3><strong>ADB/OECD Anti-Corruption Initiative for Asia and the Pacific</strong></h3>
 <p>In 1999, the Asian Development Bank (ADB) and Organisation for Economic
 Co-operation and Development (OECD) launched the ADB/OECD Anti-Corruption
@@ -45,9 +42,7 @@ which gather policymakers, civil society and business sector representatives
 to assess progress and exchange ideas.</p>
 <p>Website: <a href="http://www.oecd.org/site/adboecdanti-corruptioninitiative/" rel="noopener noreferrer nofollow" target="_blank">http://www.oecd.org/site/adboecdanti-corruptioninitiative/</a>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="100" width="150" alt="APEC" src="/images/who-we-are_ie-apec.jpg">
-</div>
+<hr>
 <h3><strong>APEC Anti-Corruption and Transparency Experts’ Working Group (ACTWG)</strong></h3>
 <p>The APEC Anti-Corruption and Transparency Experts' Task Force was formed
 in March 2005 to advise APEC Senior Officials in matters pertaining to
@@ -69,6 +64,7 @@ and illicit trade. Singapore, an APEC economy, is represented at the APEC
 ACT Working Group and ACT-NET meetings by CPIB.</p>
 <p>Website: <a href="http://www.apec.org/Groups/SOM-Steering-Committee-on-Economic-and-Technical-Cooperation/Working-Groups/Anti-Corruption-and-Transparency.aspx" rel="noopener noreferrer nofollow" target="_blank">http://www.apec.org/Groups/SOM-Steering-Committee-on-Economic-and-Technical-Cooperation/Working-Groups/Anti-Corruption-and-Transparency.aspx</a>
 </p>
+<hr>
 <h3><strong>Economic Crime Agency Network (ECAN)</strong></h3>
 <p>Established in February 2013, ECAN is a formal network of law enforcement
 organisations involved primarily in the investigation and prosecution of
@@ -77,6 +73,7 @@ enforcement agencies from various jurisdictions such as Australia, Canada,
 the European Union, Hong Kong, Indonesia, Malaysia, New Zealand, Nigeria,
 the United Kingdom and the United States. CPIB regularly attends annual
 ECAN meetings and had hosted the Network’s second meeting in 2014.</p>
+<hr>
 <h3><strong>G20 Anti-Corruption Working Group (ACWG)</strong></h3>
 <p>The Group of Twenty or G20 is an international forum comprising of countries
 from 20 major economies. In 2010, G20 Leaders established the ACWG at the
@@ -89,9 +86,7 @@ and cooperate with other countries to investigate, prosecute and return
 the proceeds of corruption. Singapore has been attending G20 meetings as
 a guest country since 2011 and in this regard, CPIB attends the G20 ACWG
 meetings which are usually held thrice a year.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="46" width="150" alt="IAACA" src="/images/who-we-are_ie-iaaca.jpg">
-</div>
+<hr>
 <h3><strong>International Association of Anti-Corruption Authorities (IAACA)</strong></h3>
 <p>IAACA was established in October 2006 with the aim of facilitating the
 implementation of UNCAC and advancing the agenda of international cooperation
@@ -106,9 +101,7 @@ Committee meeting, an Annual Conference and General Meeting and a seminar.
 CPIB participates in the IAACA as an Executive Committee member.</p>
 <p>Website: <a href="http://www.iaaca.net/" rel="noopener noreferrer nofollow" target="_blank">http://www.iaaca.net/</a>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="46" width="150" alt="IACCC" src="/images/who-we-are_ie-iaccc.jpg">
-</div>
+<hr>
 <h3><strong>International Anti-Corruption Coordination Centre (IACCC)</strong></h3>
 <p>In July 2017, CPIB joined the UK National Crime Agency (NCA) and law enforcement
 agencies from other countries [i.e. US (Federal Bureau of Investigations
@@ -148,9 +141,7 @@ Against Corruption, Seychelles Anti-Corruption Commission, Turks and Caicos
 Islands Integrity Commission.</p>
 <p>Website: <a href="/files/iaccc_leaflet.pdf" rel="noopener noreferrer nofollow" target="_blank">IACCC Leaflet</a>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="ASEAN-PAC_website" src="https://user-images.githubusercontent.com/84945723/127633378-7076a15e-9712-4c9c-a5a4-e4d94d5e505e.jpg">
-</div>
+<hr>
 <h3><strong>ASEAN Parties Against Corruption (ASEAN-PAC)</strong></h3>
 <p>ASEAN-PAC was established through the Memorandum of Understanding (MOU)
 on Cooperation for Preventing and Combating Corruption, which was initially
@@ -166,9 +157,7 @@ and Secretariat meetings which are convened to implement the objectives
 of the MOU.</p>
 <p>Website: <a href="http://www.asean-pac.org/" rel="noopener noreferrer nofollow" target="_blank">http://www.asean-pac.org//</a>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="uncac" src="/images/who-we-are_ie-uncac.jpg">
-</div>
+<hr>
 <h3><strong>United Nations Convention against Corruption (UNCAC)</strong></h3>
 <p>UNCAC is an international legal instrument against corruption which is
 regarded as the universal standard for anti-corruption measures. It currently
