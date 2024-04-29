@@ -4,9 +4,6 @@ permalink: /who-we-are/our-work/international-engagement/
 third_nav_title: Our Work
 variant: tiptap
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="international engagement" src="/images/who-we-are_ie-14th-meeting-sea.jpg">
-</div>
 <h3><strong>Introduction</strong></h3>
 <p>In a globalised world where corruption can be transnational in nature,
 CPIB plays an active role in the international community’s fight against
