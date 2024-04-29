@@ -2,7 +2,6 @@ collections:
   resources:
     output: true
     order:
-      - Quiz.md
       - Informational Brochures.md
       - PACT.md
       - Downloads.md
