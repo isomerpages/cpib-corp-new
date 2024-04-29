@@ -16,6 +16,17 @@ description: ""
 <div class="isomer-card-title">Corruzione Web Game</div>
 <div class="isomer-card-link">Click here</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/ss-iso-37001/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="SS ISO 37001" src="/images/research-rm_iso.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">SS ISO 37001</div><div class="isomer-card-link">Click here</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/videos/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Videos" src="/images/resource_videos.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Videos</div>
+<div class="isomer-card-link">Click here</div>
+</div>
+</a>
 </div>
 <p></p>
