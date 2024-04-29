@@ -2,6 +2,7 @@ collections:
   resources:
     output: true
     order:
+      - Downloads.md
       - Videos.md
       - SS ISO 37001.md
       - "Corruption Casebook 2: Hidden Victims of Corruption.md"
