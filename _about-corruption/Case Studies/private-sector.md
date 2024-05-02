@@ -184,6 +184,102 @@ on the bribe taker to pay a sum which is equal to the amount of that gratificati
 </div>
 </details>
 <details class="isomer-details">
+<summary><strong>A Slice Of Apple Pie Gone Bad</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/case_pte_bribes_proj_info1.jpg">
+</div>
+<p></p>
+<p>Chua Kim Guan was a Managing Director of Jin Li Mould Manufacturing Pte
+Ltd and was in charge of the operations in the company. Ang Kok Kiat was
+the Sales Director of the same company. The company is in the business
+of producing moulds and has had business dealings with Apple Inc since
+2001.</p>
+<p></p>
+<p>The CPIB received information on the case and investigation had shown
+that between November 2006 to June 2009, the duo had worked together to
+give bribes to one Paul Shin Devine, a Global Supply Manager under the
+employment of Apple Inc. In return, Devine would provide information on
+Apple Inc’s upcoming projects such as product forecasts and pricing targets
+so that Jin Li Mould Manufacturing Pte Ltd could secure the contracts.</p>
+<p></p>
+<p>Chua had allegedly given a total of US$387,600 to Devine over a course
+of 2 years in Singapore, Macau, People’s Republic of China (PRC) and the
+United States of America (USA) to advance Jin Li Mould Manufacturing Pte
+Ltd’s business interests. Ang had abetted these transactions as well as
+those involving two other Singaporean companies, Fastening Technology Pte
+Ltd and Lateral Solutions Pte Ltd. Moreover, he had also received payments
+from the shareholders of the two companies, for aiding them to secure business
+contracts from Apple Inc through Devine. He also received from Devine for
+his assistance in the transactions with Jin Li Mould Manufacturing Pte
+Ltd, Fastening Technology Pte Ltd and Lateral Solutions Pte Ltd.</p>
+<p></p>
+<p>In December 2013, Chua Kim Guan was jailed for 9 months for giving bribes
+to Paul Shin Devine to advance his company’s business interests with Apple
+Inc. Ang Kok Kiat was sentenced to imprisonment of 12 months and ordered
+to pay a penalty* of S$281,985.51. Paul Shin Devine had pleaded guilty
+earlier in the US Federal Court in February 2011 to wire fraud, conspiracy
+and money laundering.</p>
+<p></p>
+<p>* Penalty is an additional punishment (for corruption offences) imposed
+on the bribe taker to pay a sum which is equal to the amount of that gratification.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Bribes In Return For Food Supply Contracts</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/case_pte_bribes_for_contracts1.jpg">
+</div>
+<p></p>
+<p>Leng Kah Poh was the IKEA Food Service Manager for Ikano Pte Ltd (IKEA
+Singapore). Being the top man in charge of IKEA Food Service, he had a
+free hand in making most of the decisions related to the restaurant operations
+including approving food suppliers to IKEA Singapore.</p>
+<p></p>
+<p>The CPIB received information on the case and its investigation revealed
+that sometime in 2002, Leng got acquainted with Lim Kim Seng, the sole
+proprietor of Buildcare Services who performed cleaning works for IKEA
+Singapore’s restaurants. The latter approached Leng with a business proposal
+to replace IKEA Singapore’s existing food supplier. He introduced Tee Fook
+Boon, the sole proprietor of AT35 to Leng. Subsequently, AT35 managed to
+take over the supply of raw food ingredients from IKEA Singapore’s existing
+supplier with the assistance and recommendation of Leng. Part of the company
+(AT35)’s profits went to Leng even though he did not contribute to the
+initial capital investment to finance their business scheme. Later, Lim
+set up Food Royale Trading (FRT) to supply chilled and dry food products
+to IKEA Singapore. AT35 and FRT then became the exclusive suppliers of
+frozen, chilled and dried food ingredients and products to IKEA Singapore.
+Leng continued to exercise his influence and favour the two companies.
+He would give insider information on how to make AT35’s and FRT’s products
+attractive to IKEA Singapore.</p>
+<p></p>
+<p>Over a period of about 7 years, through AT35 and FRT, Lim Kim Seng, Tee
+Fook Boon and Leng Kah Poh amassed for themselves S$6.9 million out of
+the company profits from the food supply contracts with IKEA Singapore.
+Leng took a one-third share for his pivotal role in their business scheme,
+in the amount of about S$2.3 million.</p>
+<p></p>
+<p>All 3 persons were charged and convicted for corruption offences. Leng
+Kah Poh was convicted by a District Court in July 2013 but was later acquitted
+in September 2013 by the High Court. The High Court decision was then overturned
+by the Court of Appeal in November 2014, which restored Leng’s original
+sentence of 98 weeks imprisonment and S$2,341,508 penalty* on the corrupt
+proceeds he received. Lim Kim Seng was convicted and sentenced to 70 weeks
+imprisonment in 2013. Tee Fook Boon was originally convicted by a District
+Court to 16 weeks imprisonment and fine of S$180,000. Subsequently, Tee’s
+imprisonment was enhanced to 40 weeks with the fine amount remaining unchanged
+on 22 August 2011.</p>
+<p></p>
+<p>* Penalty is an additional punishment (for corruption offences) imposed
+on the bribe taker to pay a sum which is equal to the amount of that gratification.</p>
+</div>
+</details>
+<details class="isomer-details">
 <summary></summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
