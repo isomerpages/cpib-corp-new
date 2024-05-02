@@ -4,53 +4,6 @@ permalink: /about-corruption/case-studies/public-sector/
 third_nav_title: Case Studies
 variant: tiptap
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/case/case_pub_brought-to-justice.jpg">
-</div>
-<h6><a href="/cases/public_fugitive-brought-justice-after-35-years" rel="noopener noreferrer nofollow" target="_blank">Fugitive Brought To Justice After 35 Years</a></h6>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/case/case_pub_loans-for-grants.jpg">
-</div>
-<h6><a href="/cases/public_high-price-loans-grants" rel="noopener noreferrer nofollow" target="_blank">The High Price Of Loans For Grants</a></h6>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/case/case_pub_authority.jpg">
-</div>
-<h6><a href="/cases/public_authority-you-will-lose-it-if-you-abuse-it" rel="noopener noreferrer nofollow" target="_blank">Authority – You Will Lose It If You Abuse It</a></h6>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/case/case_pub_graft-amt.jpg">
-</div>
-<h6><a href="/cases/public_highest-graft-amount" rel="noopener noreferrer nofollow" target="_blank">The Highest Graft Amount</a></h6>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/case/case_pub_gst-fraud.jpg">
-</div>
-<h6><a href="/cases/public_corruption-and-abetting-gst-tourist-refund-fraud" rel="noopener noreferrer nofollow" target="_blank">Corruption And Abetting In GST Tourist Refund Fraud</a></h6>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/case/case_pub_loans.jpg">
-</div>
-<h6><a href="/cases/public_loans-land-you-behind-bars" rel="noopener noreferrer nofollow" target="_blank">Loans That Land You Behind Bars</a></h6>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/case/case_pub_corrupt-addict.jpg">
-</div>
-<h6><a href="/cases/public_corruption-addict" rel="noopener noreferrer nofollow" target="_blank">Corruption "Addict"</a></h6>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/case/case_pub_money-xchg.jpg">
-</div>
-<h6><a href="/cases/public_money-exchange-sloppy-record-keeping" rel="noopener noreferrer nofollow" target="_blank">Money In Exchange For Sloppy Record-Keeping</a></h6>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/case/case_pub_personal-interest.jpg">
-</div>
-<h6><a href="/cases/public_personal-interest-over-public-safety" rel="noopener noreferrer nofollow" target="_blank">Personal Interest Over Public Safety</a></h6>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/case/case_pub_cash-for-info.jpg">
-</div>
-<h6><a href="/cases/public_cash-info" rel="noopener noreferrer nofollow" target="_blank">Cash-For-Information</a></h6>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/case/case_pub_money-xchg-passes.jpg">
-</div>
-<h6><a href="/cases/public_money-exchange-visit-passes" rel="noopener noreferrer nofollow" target="_blank">Money In Exchange For Visit Passes</a></h6>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/case/case_pub_sex-for-contracts.jpg">
-</div>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Fugitive Brought To Justice After 35 Years</strong>
@@ -412,30 +365,76 @@ on the bribe taker to pay a sum which is equal to the amount of that gratificati
 </div>
 </details>
 <details class="isomer-details">
-<summary></summary>
+<summary><strong>Money In Exchange For Visit Passes</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/case_pub_money_xchg_passes1.jpg">
+</div>
+<p></p>
+<p>Mohammed Mustaffa Mohabat Ali was a former Immigration and Checkpoints
+Authority (ICA) Primary Screening Officer attached to the Tuas Checkpoint.
+His duties included assessing whether foreigners meet entry requirements,
+inspecting travellers’ passports and granting Visit Passes (VP) to visitors
+to enter and remain in Singapore. Between October 2010 and June 2011, Mustaffa
+accepted bribes in return for granting VP to Filipino and Vietnamese women
+to extend their stay in Singapore.</p>
+<p></p>
+<p>Mustaffa worked mainly with a middleman, who would also refer foreigners
+to him. The middleman would provide transportation to the foreigners, drive
+them through the checkpoint and seek out Mustaffa to grant the VP when
+he was doing clearance duty at the checkpoint. The foreigners had paid
+fees of between S$150 to S$550 for each re-entry. Mustaffa had also recruited
+and given bribes to four ICA colleagues to assist him in his scheme when
+he was not able to do so.</p>
+<p></p>
+<p>Mohammed Mustaffa Mohabat Ali was arrested after the CPIB, with the assistance
+of the ICA, cracked the case in June 2011. He was convicted for corruption
+offences, then sentenced to 21 months’ imprisonment and ordered to pay
+a penalty* of S$8,050 in December 2013. The following year, Ezhar Bin Kamis,
+Mohamed Nazrul Bin Noor Mohamed, Lukmanulhakim Bin Samsun and Nor Hidayat
+Bin Mohamed Hussain whom Mustaffa recruited for his scheme were each sentenced
+to 4 months’ jail and ordered to pay penalties* of between S$50 and S$150.</p>
+<p></p>
+<p>* Penalty is an additional punishment (for corruption offences) imposed
+on the bribe taker to pay a sum which is equal to the amount of that gratification.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Sex-For-Contracts</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/case_pub_sex_for_contracts1.jpg">
+</div>
+<p></p>
+<p>Peter Lim Sin Pang was the former commissioner of the Singapore Civil
+Defence Force (SCDF) who was investigated by the CPIB for corruptly obtained
+sexual gratification from two female vendors and one potential female vendor
+to the SCDF on 10 occasions between May 2010 and November 2011, as an inducement
+for showing favour by advancing the business interest of their companies
+with SCDF.</p>
+<p></p>
+<p>Its investigation revealed that on 2 May 2010, Lim obtained oral sex from
+a former senior employee of Nimrod Engineering at a public carpark. Ten
+months later on 17 March 2011, Lim tipped off her about a SCDF tender on
+radiation portal monitors before it was officially published on 6 April
+that year. Nimrod Engineering bade for the project shortly. Between May
+2010 and November 2011, Lim had also obtained several sexual gratifications
+from two other women who were in senior positions for vendors of the SCDF.
+In return, Lim would show favour to the companies where the women were
+working at for IT-related tenders called by the SCDF.</p>
+<p></p>
+<p>Peter Lim Sin Pang was charged for corruptly obtaining sexual gratification
+involving three different women. In June 2013, he was sentenced to six
+months’ imprisonment, and was officially dismissed from the public service
+on 31 August 2013.</p>
 </div>
 </details>
 </div>
 <p>
 <br>
 </p>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary></summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-</div>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary></summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-</div>
-<p></p>
 <p></p>
