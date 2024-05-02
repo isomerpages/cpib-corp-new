@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Our Corporate Philosophy/.keep
-      - Our Corporate Philosophy/mission-vision-core-values.md
+      - Our Corporate Philosophy/Mission, Vision, Core Values.md
       - Our Corporate Philosophy/pledge.md
       - Our Corporate Philosophy/Quality Policy.md
       - Our Corporate Philosophy/logo-flag.md
