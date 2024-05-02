@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Resources NEW/.keep
-      - Resources.md
       - Prevention & Education/.keep
       - Prevention & Education/Definition Of Corruption.md
       - Prevention & Education/singapore-s-corruption-control-framework.md
