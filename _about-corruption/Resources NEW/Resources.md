@@ -28,6 +28,6 @@ third_nav_title: Resources NEW
 <div class="isomer-card-title">SS ISO 37001</div>
 <div class="isomer-card-link">Click here</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/videos/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Videos" src="/images/resource_videos.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Videos</div><div class="isomer-card-link">Click here</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/about-corruption/resources/videos/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Videos" src="/images/resource_videos.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Videos</div><div class="isomer-card-link">Click here</div></div></a>
 </div>
 <p></p>
