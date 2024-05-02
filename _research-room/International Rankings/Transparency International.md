@@ -6,7 +6,7 @@ variant: tiptap
 description: ""
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="transparency international" src="/images/research-rm_transparency-intl.jpg">
+<img style="width: 90%;" height="auto" width="100%" alt="transparency international" src="/images/research-rm_transparency-intl.jpg">
 </div>
 <h3><strong>About Transparency International</strong></h3>
 <p>Transparency International (TI) is an international non-governmental organization
@@ -25,7 +25,12 @@ sector corruption. The CPI currently ranks 180 countries on a scale from
 <h3><strong>Singapore’s Ranking</strong></h3>
 <p>Since its inception, Singapore has been ranked consistently among one
 of the least corrupt countries in the world.</p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
