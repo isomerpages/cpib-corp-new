@@ -112,7 +112,7 @@ police officers. Thus, corruption, especially in its syndicated form amongst
 law enforcement officers, continued to thrive in the colonial society.</p>
 <hr>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/heritage-1959.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/HR19980007231___IMG0021.jpg">
 </div>
 <p><em>Ministry of Information and the Arts Collection, Image Courtesy of National Archives of Singapore</em>
 </p>
@@ -423,9 +423,8 @@ documentary on the Bureau <em>Corruption Crackdown – Inside the CPIB</em> was
 broadcast on national television.</p>
 <hr>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/heritage-2015.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/HRCSC_Public_Service_Values_Conference_314.jpg">
 </div>
-<p></p>
 <p><strong>2015</strong>
 </p>
 <p></p>
