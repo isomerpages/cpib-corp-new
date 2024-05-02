@@ -5,7 +5,7 @@ third_nav_title: Prevention & Education
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="reporting of corruption complaints" src="/images/abt-corruption_rept-corruption-complaints.jpg">
+<img style="width: 90%;" height="auto" width="100%" alt="reporting of corruption complaints" src="/images/abt-corruption_rept-corruption-complaints.jpg">
 </div>
 <p>The CPIB takes a serious view of any corrupt practices in Singapore and
 will not hesitate to take action against any parties involved in corrupt
@@ -16,7 +16,7 @@ to use the following channels to reach us:</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/icon_come-down.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/icon_come-down.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -26,7 +26,7 @@ to use the following channels to reach us:</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="call duty officer" src="/images/icon_call-duty-officer.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="call duty officer" src="/images/icon_call-duty-officer.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -36,7 +36,7 @@ to use the following channels to reach us:</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="lodge e-complaint" src="/images/icon_lodge-e-complaint.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="lodge e-complaint" src="/images/icon_lodge-e-complaint.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -46,7 +46,7 @@ to use the following channels to reach us:</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="email" src="/images/icon_email.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="email" src="/images/icon_email.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -57,7 +57,7 @@ to use the following channels to reach us:</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="fax" src="/images/icon_fax.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="fax" src="/images/icon_fax.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
