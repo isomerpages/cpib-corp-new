@@ -2,6 +2,7 @@ collections:
   about-corruption:
     output: true
     order:
+      - Resources NEW/Informational Brochures.md
       - Resources NEW/Downloads.md
       - Resources NEW/PACT.md
       - Resources NEW/Videos.md
