@@ -280,9 +280,418 @@ on the bribe taker to pay a sum which is equal to the amount of that gratificati
 </div>
 </details>
 <details class="isomer-details">
-<summary></summary>
+<summary><strong>Fine Line Between Tradition And Corruption</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/case_pte_trad_corrupt1.jpg">
+</div>
+<p></p>
+<p>Tay Ee Tiong is the owner of Wealthy Seafood Product and Enterprise. During
+his course of work, he had personally approached each head chef and promised
+them commissions in return for showing favour to Wealthy Seafood. Many
+of these chefs were from well-known Chinese restaurants and hotels in Singapore.
+These chefs were prominent and established, and had the authority to make
+decisions on the choice of suppliers for their respective restaurants.</p>
+<p></p>
+<p>The CPIB’s investigations found out that from February 2006 and August
+2009, Tay had given bribes to 19 chefs ranging from S$200 and S$24,000.
+Tay would approach these chefs and promise them commissions, based on a
+percentage of the total value of the seafood products bought. The chefs
+would receive the cash from Tay once every two to three months. In return,
+they would continue to place their seafood orders from Tay’s company.</p>
+<p></p>
+<p>Tay Ee Tiong was eventually charged with 223 counts of corruption and
+sentenced to 18 months’ imprisonment in September 2011 for giving out nearly
+S$1 million in bribes. The chefs involved were also convicted with corruptly
+accepting bribes from Tay and received their respective sentences, with
+the exception of one who was acquitted.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Bunkering Deal Gone Awry</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/case_pte_bunker_deal1.jpg">
+</div>
+<p></p>
+<p>Antonov Sergey was the Chief Engineer of the vessel MT Front Splendour
+while Choo Soo Beng was a Cargo Officer with Sea Hub Energy Pte Ltd assigned
+to the bunker barge MT Ivory. These individuals ensured that MT Ivory delivered
+a shortfall of marine fuel to the vessel - MT Front Splendor. The vessel
+had received less fuel than the amount of 2,662.389 metric tonnes as stated
+in the documents. The intent of this endeavour was to enable the buying
+back of the extra fuel. Sergey’s ship, the MT Front Splendour, had ordered
+marine fuel from supplier Sea Hub Energy to be supplied on 20 January 2013.
+However, Choo had struck a deal with Sergey to accept a short delivery
+of marine fuel in return for a bribe of US$8,400.</p>
+<p></p>
+<p>Lam Tat Fei, colleague of Choo and a boatman under the employment of Sea
+Hub Energy, received US$200 from Choo for his part in the transaction.
+Lam was responsible for obtaining confirmation to proceed with the deal,
+and for delivering the amount of US$18,000 to pay for the extra fuel resulting
+from the shortfall. An independent bunker surveyor working for Saybolt
+Singapore Pte Ltd, Loh Tuck Seng, was also bribed to provide false declaration
+that 2,662.389 tonnes of fuel had been received by MT Front Splendour from
+MT Ivory, instead of the actual 2,542 tonnes delivered. Loh received US$400
+and US$5,500 from Sergey and Choo respectively. To account for the extra
+fuel on board MT Ivory, Choo falsified a barge transfer advice and the
+stock movement logbook to indicate a bogus transfer of fuel from another
+vessel, MT Hai Soon X, to the MT Ivory.</p>
+<p></p>
+<p>The CPIB started its investigation after it had received information on
+the case.</p>
+<p></p>
+<p>The four men were charged for their part in the illegal “buyback” transaction
+which constituted a corruption offence. Antonov Sergey was sentenced to
+2 weeks’ jail, fined S$30,000 and ordered by the Court to pay a penalty*
+of US$6,750 which was the amount not recovered. Choo Soo Beng was jailed
+for 8 weeks while Loh Tuck Seng was jailed for 2 weeks and fined S$25,000.
+Lam Tat Fei was sentenced to 6 weeks in prison and ordered to pay a penalty*
+of US$200. The amounts of US$3,900, US$5,900 and US$1,250 were seized from
+Choo Soo Beng, Loh Tuck Seng and Antonov Sergey respectively and these
+were forfeited to the state.</p>
+<p></p>
+<p>* Penalty is an additional punishment (for corruption offences) imposed
+on the bribe taker to pay a sum which is equal to the amount of that gratification.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Men Of The Match</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/case_pte_match_fix1.jpg">
+</div>
+<p></p>
+<p>Kim Jae Hong and Jeon Byung Euk are Korean Nationals and professional
+football players who came to Singapore to play in the S-League. Both men
+were former players of the Geylang United Football Club (GUFC).</p>
+<p></p>
+<p>On 10 April 2012, GUFC goalkeeper Mohamed Yazid Mohamed Yasin received
+a call from an unidentified foreign number. The male caller, who sounded
+Korean, asked Yazid if he was willing to fix the results of matches he
+would be playing in. In return, Yazid would receive between S$4,000 and
+S$7,000. Kim met Yazid on 2 May 2013 where he gave Yazid S$4,000 as an
+inducement to ensure that the GUFC lost its match against Harimau Muda
+A Football Club that was to be played on 3 May 2012. Another S$4,000 was
+given to Yazid to be passed to another football player of GUFC to fix the
+same S-League football match. Yazid rejected the bribe offer. Subsequently,
+the CPIB was alerted and investigated the case.</p>
+<p></p>
+<p>Kim had also engaged in conspiracy with Jeon to approach another GUFC
+player, Mun Seung Man, to fix the same game on 3 May 2012. Jeon met up
+with Mun on 2 May 2012 where he told Mun that he should refrain from scoring
+any goals during the match. If Mun agreed to the deal, he would receive
+between S$3,000 and S$4,000.</p>
+<p></p>
+<p>Kim Jae Hong and Jeon Byung Euk were both charged for match-fixing and
+pleaded guilty to their offences in May 2012. Jeon Byung Euk was sentenced
+to 5 months in prison, while Kim Jae Hong was jailed 10 months.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Illegal Commissions For Facilitating Loans</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/case_pte_illegal_comm1.jpg">
+</div>
+<p></p>
+<p>Wong Teck Long was former Senior Vice-President (Private Banking) of Bayerische
+Landesbank Girozentrale (BLG). Part of his duties at BLG was to source
+for private individuals in the Asia Pacific region who wished to borrow
+money for investments.</p>
+<p></p>
+<p>The CPIB had received information on the case. Its investigation revealed
+that Wong was introduced to Kong Kok Keong who was then Executive Director
+of Innosabah Sdn Bhd (Innosabah), a share broking company located in Sabah,
+Malaysia. Kong had intended to obtain credit facility from BLG to purchase
+shares. Subsequently, in April 1997, Wong put up a Credit Approval to the
+management of BLG recommending to grant Kong a Revolving Short-Term Multi-Currency
+Loan of RM14.5 million. The management approved the loan application. Kong,
+besides obtaining the loan from BLG for himself, also got his nominees
+from Malaysia to apply for the loans. Nine Malaysians managed to obtain
+Revolving Short-Term Multi-Currency Loan of RM14.5 million each from BLG
+through Wong.</p>
+<p></p>
+<p>For expediting the approval and drawdown of the loans, Wong demanded a
+substantial commission from Kong. The commission was given to Wong in the
+form of shares traded in Wong’s nominee share account with Innosabah. Wong
+would purchase the shares but the shares would be paid by Kong. In total,
+Wong had received from Kong about RM 300,000 to RM 400,000 which were the
+proceeds from the sales of shares.</p>
+<p></p>
+<p>In February 2005, Wong Teck Long was sentenced to 4 months imprisonment
+and ordered to pay a penalty* of S$150,000 for corruption offences. In
+June 2005, Wong appealed against the sentence without success. Instead,
+his sentence was increased from 4 months to 15 months imprisonment. The
+penalty sum remained at S$150,000.</p>
+<p></p>
+<p>* Penalty is an additional punishment (for corruption offences) imposed
+on the bribe taker to pay a sum which is equal to the amount of that gratification.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Airport Manager Bagged For Corruption</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/case_pte_bagged_for_corrupt1.jpg">
+</div>
+<p></p>
+<p>Abdul Rahim Bin Jumaat was employed as a Duty Terminal Manager at the
+Baggage Department of the Singapore Airport Terminal Services Limited (SATS).
+His responsibilities included overseeing the daily loading and unloading
+operation of passenger baggage for incoming and outgoing flights from Changi
+Airport Terminal 2.</p>
+<p></p>
+<p>The CPIB started an investigation on the case after it had received information.
+Between 6 November 2007 and 29 April 2008, Rahim had accepted gratifications
+totalling S$5,080 from one Abdul Falik Bin Abdul Latiff, a freelance airport
+agent in return for confidential information of passengers with no check-in
+baggage. Falik had used the information to help his clients who are foreign
+passengers with excess baggage. The excess baggage were then included under
+the quota meant for those passengers without any check-in baggage so that
+Falik’s clients did not have to pay the excess baggage charges.</p>
+<p></p>
+<p>Rahim had made unauthorized access into the Kris Check system (used at
+Changi Airport) on 25 occasions from 5 November 2007 to 25 April 2008,
+to obtain the names and information of passengers (with no check-in baggage)
+for Falik. Falik would get paid for providing this service and he, in turn,
+would pay Rahim for providing him with the list of passenger names.</p>
+<p></p>
+<p>Both men were charged and convicted for corruption. Rahim was also charged
+under the Computer Misuse and Cyber Security Act. On 30 November 2012,
+Abdul Falik Bin Abdul Latiff was sentenced to 2 weeks imprisonment and
+S$12,000 fine while Abdul Rahim Bin Jumaat was convicted on 21 May 2012
+and sentenced to 2 weeks imprisonment, S$36,000 in fine and a penalty*
+of S$5,080.</p>
+<p></p>
+<p>* Penalty is an additional punishment (for corruption offences) imposed
+on the bribe taker to pay a sum which is equal to the amount of that gratification.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>A Negotiation Deal Went Wrong</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/case_pte_nego_went_wrong1.jpg">
+</div>
+<p></p>
+<p>As a supplier quality engineer, one of Nagvekar Samir Kishor’s responsibilities
+was to conduct price review negotiations between his company, Reservoir
+Product Manufacturing (S) Pte Ltd, and its suppliers.</p>
+<p></p>
+<p>In April 2013, Samir was introduced to Sean Tan, Business Development
+Director of Telford Industry Co. Ltd to discuss on a regular price review
+as required in their contract agreement. After the meeting, Samir informed
+Tan that he could help to postpone the price review to a later date if
+Tan could help him on a personal matter. At that juncture, Tan understood
+that Samir wanted something from him in return for delaying the price review
+by three months. Samir added that he was in urgent need of money and he
+needed S$15,000. Tan rejected Samir’s repeated requests for the bribe on
+several occasions. Eventually, a police report was made and the matter
+was then referred to the CPIB.</p>
+<p></p>
+<p>Nagvekar Samir Kishor was charged and fined S$15,000 on 17 Dec 2013 for
+corruption offences.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>A Little Coffee Money “Did No Harm”</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/case_pte_coffee_money1.jpg">
+</div>
+<p></p>
+<p>Sheith Yusof Bin Sheith Ibrahim was a trainer of Absolute Kinectics Consultancy
+Pte Ltd where he coached trainees attending the welding course on the theoretical
+and practical aspects of welding. In addition, his duties also included
+assisting the external welding testers during the welding test. Any trainee
+who passed the test would receive a welder pass which is recognized by
+the Ministry of Manpower.</p>
+<p></p>
+<p>Investigation by the CPIB revealed that from November 2012 to March 2013,
+he took advantage of his position as a trainer to obtain bribes from course
+trainees on several occasions. These bribe amounts which ranged from S$5
+to S$50 were given in return for showing leniency during the welding courses
+and tests.</p>
+<p></p>
+<p>Sheith Yusof Bin Sheith Ibrahim admitted that he had obtained money from
+his trainees during the two courses conducted in 2012. In January 2014,
+Yusof was fined S$8,000 and a penalty* of S$199 for the corruption offences.
+The 11 foreign workers who gave the bribes were given conditional warnings.</p>
+<p></p>
+<p>* Penalty is an additional punishment (for corruption offences) imposed
+on the bribe taker to pay a sum which is equal to the amount of that gratification.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Too Late To Turn Back Time</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/case_pte_turn_back_time1.jpg">
+</div>
+<p></p>
+<p>Singleton Marc Alexander was the former Managing Director of Performance
+Motors Ltd. As Managing Director, part of his responsibilities was to review
+the yearly renewal of authorised dealership granted to local companies
+for the distribution and sales for BMW cars in Singapore. He also had the
+authority to approve or terminate dealerships.</p>
+<p></p>
+<p>The CPIB had received information on the case. Its investigation revealed
+that on 17 December 1999, Alexander received two Rolex watches from Teo
+Kian Hong, a Director of Teo Tian Seng Motor Credit Pte Ltd (TTS), as a
+Christmas present. In return, Teo had hoped that Alexander would continue
+to appoint TTS as one of the dealers for distributing BMW cars. Subsequently,
+Alexander had approached Teo with requests to buy more branded watches.
+On some occasions, Alexander would make a payment to Teo for the branded
+watches at a discounted price. But most of the time, Alexander would not
+pay back Teo for the branded watches. Teo did not seek payment from Alexander
+as she wanted TTS to continue to be an authorized dealer for BMW cars.
+The branded watches had a total worth of more than S$100,000. Alexander
+also obtained from Teo, 3 Nokia handphones and a sum of S$78,000.</p>
+<p></p>
+<p>Besides Alexander, Teo had also given bribes to Patrick Pow, the Director
+of Sales and Marketing at Performance Motors Ltd. In his position, Pow
+could recommend for renewal or termination of dealer agreements. Teo had
+given Pow a Hermes watch as a Christmas gift. Despite Pow knowing it was
+against company policy, he accepted the gift. From December 2000 to December
+2002, Pow obtained from Teo branded watches with a total worth of S$4,165,
+a Nokia handphone worth S$1,388 and a loan of S$60,000.</p>
+<p></p>
+<p>Further investigation revealed that Pow has also obtained bribes from
+Kheh Thiam Hoo, Director of Skyway Credit &amp; Leasing Pte Ltd (Performance
+Motors Ltd’s appointed sole finance agent), in return for the maintenance
+of a good business relationship with Skyway. Pow had received from Kheh,
+a Frank Muller watch worth S$13,390 for his birthday and loans amounting
+to S$82,000.</p>
+<p></p>
+<p>Marc Alexander was charged with corruptly obtaining gratification from
+Teo as an inducement to continue Teo’s dealership. He was fined S$185,000
+and ordered to pay a penalty* of S$112,142 on 27 October 2005. Patrick
+Pow was charged with corruptly obtaining gratification from Teo Kian Hong
+and Kheh Thiam Hoo as an inducement to re-appoint their companies as dealers
+of Performance Motors Ltd. On 18 April 2005, he was fined S$120,000 and
+ordered to pay a penalty* of S$142,000.</p>
+<p></p>
+<p>* Penalty is an additional punishment (for corruption offences) imposed
+on the bribe taker to pay a sum which is equal to the amount of that gratification.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Breach Of Trust</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/case_pte_breach_trust1.jpg">
+</div>
+<p></p>
+<p>Sazaly Bin Selamat is a former bank executive at the Development Bank
+of Singapore (DBS) in the Technical &amp; Operations Department. His main
+duties included the clearing of cheques from customers for payment of credit
+card or cash line bills.</p>
+<p></p>
+<p>Sometime in 2005, Sazaly met Alex Lian, a car repossesser when Sazaly’s
+car was repossessed due to non-payments of his car instalments. Subsequently,
+Alex came to know Sazaly was employed at DBS and he was able to access
+DBS’s customer database. Alex called Sazaly up a few days later and asked
+if he would like to make some money by helping him obtain the particulars
+of DBS’s customers through the database. Alex informed other individuals
+known to him about Sazaly’s “services” and the latter provided the required
+information to them in return for cash. From July 2005 to October 2006,
+Sazaly provided DBS customers’ information to Alex and his contacts, which
+included illegal bookies and loan sharks.</p>
+<p></p>
+<p>On 28 January 2011, Sazaly Bin Selamat was sentenced to 12 weeks’ imprisonment
+and ordered to pay a fine of S$21,000 and a penalty* of S$2,625 for corruption
+offences. He was also fined $6,000 for computer misuse offences.</p>
+<p></p>
+<p>* Penalty is an additional punishment (for corruption offences) imposed
+on the bribe taker to pay a sum which is equal to the amount of that gratification.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Concealed Act Uncovered</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/case_pte_concealed_act1.jpg">
+</div>
+<p></p>
+<p>Lo Keng Foo was the Director of the Failure Analysis and Reliability Engineering
+Section at Chartered Semiconductor Manufacturing Pte Ltd (CSM). His job
+scope involved studying and acquiring new technologically advanced test
+devices to measure the reliability of semiconductor products manufactured
+by CSM.</p>
+<p></p>
+<p>The CPIB acted on information received and investigated the case. In 1994,
+Lo got to know Lim Cheng Hock, Chairman of Zen Voce Manufacturing Pte Ltd,
+after he became a supplier of CSM for Test Solution Products. Sometime
+in 1997, Lo had a discussion with Lim Cheng Hock. Lo said he could help
+Zen Voce secured sales orders from CSM in return for a cut of their profits.
+From March 1998 to August 2002, Lo obtained S$1,017,343 from Lim as a reward
+for helping Zen Voce. Subsequently from August 1997 to July 2000, Lo obtained
+S$211,400 from Chng Peng Hion, Managing Director of ESA Electronics Pte
+Ltd (ESA), as a reward for helping ESA secured contracts with CSM. To camouflage
+the accounts of Zen Voce and ESA and cover these illicit payments, Lo created
+fictitious invoices to mislead Zen Voce and ESA.</p>
+<p></p>
+<p>On 24 January 2006, Lo Keng Foo was sentenced to 4 years’ imprisonment
+and ordered to pay a penalty* of S$1,228,743 for corruption offences.</p>
+<p></p>
+<p>* Penalty is an additional punishment (for corruption offences) imposed
+on the bribe taker to pay a sum which is equal to the amount of that gratification.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>An Unlawful Helping Hand</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/case_pte_unlawful_hand1.jpg">
+</div>
+<p></p>
+<p>Chew Gay Kian was the Purchasing Superintendent of ST Microelectronics
+Pte Ltd (STM). His job scope included creating vendor accounts, issuing
+purchase orders to vendors and updating the information in the computer
+system.</p>
+<p></p>
+<p>The CPIB’s investigation revealed that Chew first met John Ee, a Director
+at Iconium Technologies Pte Ltd, in March 2005 during a meeting where Ee
+was seeking for Iconium Technologies to be appointed as a vendor to supply
+products to STM. During the time when Chew was preparing to create a vendor
+account for Iconium Technologies, he approached Ee for a loan of S$6,000.
+Ee agreed to give the loan to Chew as he needed Chew’s help in qualifying
+Iconium Technologies as a vendor for STM. After Iconium Technologies was
+approved as a vendor for STM and started business dealings with them, Ee
+became aware of Chew’s financial difficulties. Although Ee refused to loan
+Chew any money, he helped to pay for expenses incurred by Chew for dining,
+entertainment and repair bills. Ee also gave a red packet to Chew’s daughter
+as a birthday gift.</p>
+<p></p>
+<p>Chew Gay Kian was charged for corruptly obtaining gratification in the
+form of loan and gifts amounting to S$8,650. In July 2010, he was fined
+S$29,000 and ordered by the Court to pay a penalty* of S$8,650.</p>
+<p></p>
+<p>* Penalty is an additional punishment (for corruption offences) imposed
+on the bribe taker to pay a sum which is equal to the amount of that gratification.</p>
 </div>
 </details>
 </div>
