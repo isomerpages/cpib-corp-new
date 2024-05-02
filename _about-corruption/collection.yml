@@ -2,16 +2,16 @@ collections:
   about-corruption:
     output: true
     order:
+      - Resources NEW/.keep
+      - Resources NEW/Resources.md
+      - "Resources NEW/Scrupulous, Thorough, Fearless: The CPIB Story.md"
+      - Resources NEW/Corruzione Web Game.md
+      - "Resources NEW/Corruption Casebook 2: Hidden Victims of Corruption.md"
+      - Resources NEW/PACT.md
+      - Resources NEW/SS ISO 37001.md
+      - Resources NEW/Videos.md
       - Resources NEW/Informational Brochures.md
       - Resources NEW/Downloads.md
-      - Resources NEW/PACT.md
-      - Resources NEW/Videos.md
-      - Resources NEW/SS ISO 37001.md
-      - "Resources NEW/Corruption Casebook 2: Hidden Victims of Corruption.md"
-      - Resources NEW/Corruzione Web Game.md
-      - "Resources NEW/Scrupulous, Thorough, Fearless: The CPIB Story.md"
-      - Resources NEW/Resources.md
-      - Resources NEW/.keep
       - Prevention & Education/.keep
       - Prevention & Education/Definition Of Corruption.md
       - Prevention & Education/singapore-s-corruption-control-framework.md
