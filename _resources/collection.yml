@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - Informational Brochures.md
-      - PACT.md
       - Downloads.md
