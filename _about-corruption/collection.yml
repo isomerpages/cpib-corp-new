@@ -2,6 +2,7 @@ collections:
   about-corruption:
     output: true
     order:
+      - Resources NEW/Corruzione Web Game.md
       - "Resources NEW/Scrupulous, Thorough, Fearless: The CPIB Story.md"
       - Resources NEW/Resources.md
       - Resources NEW/.keep
