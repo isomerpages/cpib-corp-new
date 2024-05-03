@@ -8,7 +8,7 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="a game of chess" src="/images/careers_chess.jpg">
 </div>
-<p><strong>Kogularam Naidu</strong>
+<p><strong>Kogularam Naidu</strong> 
 <br><strong>Deputy Head</strong>
 </p>
 <p>At CPIB, we're responsible for the investigation and prevention of corruption
