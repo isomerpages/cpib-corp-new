@@ -25,23 +25,22 @@ that enabled a higher percentage of reports to be registered for investigation.<
 <div class="isomer-image-wrapper">
 <img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 802.656px;" height="auto" width="100%" alt="" src="https://www.cpib.gov.sg/images/Graph_1.png">
 </div>
-<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CPIB treats all reports received
-seriously regardless of whether the complainant is named or anonymous.
-Of the 215 corruption-related reports received in 2023, 98 (46%) were anonymous.
-The merits of these reports were assessed based on the information provided.
-Of the 81 cases registered for investigation in 2023, 20 (25%) were anonymous.</p>
+<p>2. CPIB treats all reports received seriously regardless of whether the
+complainant is named or anonymous. Of the 215 corruption-related reports
+received in 2023, 98 (46%) were anonymous. The merits of these reports
+were assessed based on the information provided. Of the 81 cases registered
+for investigation in 2023, 20 (25%) were anonymous.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 802.656px;" height="auto" width="100%" alt="" src="https://www.cpib.gov.sg/images/Graph_2.png">
 </div>
 <p><strong><em><u>Number of Public Sector Cases Remained Low</u></em></strong>
 </p>
-<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In 2023, most of the cases registered
-for investigation <strong>(Figure 2)</strong> were from the private sector
-(86%, 70 cases). Out of the 70 cases, 9 cases involved public sector employees
-rejecting bribes offered by private sector individuals.<sup>1</sup> On the
-other hand, public sector cases accounted for 14% of all cases (11 cases)
-registered for investigation in 2023.</p>
+<p>3.&nbsp;In 2023, most of the cases registered for investigation <strong>(Figure 2)</strong> were
+from the private sector (86%, 70 cases). Out of the 70 cases, 9 cases involved
+public sector employees rejecting bribes offered by private sector individuals.<sup>1</sup> On
+the other hand, public sector cases accounted for 14% of all cases (11
+cases) registered for investigation in 2023.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 802.656px;" height="auto" width="100%" alt="" src="https://www.cpib.gov.sg/images/Graph_3.png">
@@ -49,39 +48,38 @@ registered for investigation in 2023.</p>
 <p></p>
 <p><strong><em><u>Majority of Individuals Prosecuted in Court were from the Private Sector</u></em></strong>
 </p>
-<p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In 2023, 111 individuals were prosecuted
-in Court for offences investigated by CPIB. Of these, 95% (105) were private
-sector individuals while the remaining 5% (6) were public sector employees.&nbsp;</p>
+<p>4.&nbsp;In 2023, 111 individuals were prosecuted in Court for offences
+investigated by CPIB. Of these, 95% (105) were private sector individuals
+while the remaining 5% (6) were public sector employees.&nbsp;</p>
 <p><strong><em><u>High Clearance Rate for CPIB Cases</u></em></strong>
 </p>
-<p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CPIB maintained a high clearance
-rate<sup>2</sup>, completing investigation into 84% of subjects investigated
-in 2023 (<strong>Figure 3</strong>).</p>
+<p>5.&nbsp;CPIB maintained a high clearance rate<sup>2</sup>, completing
+investigation into 84% of subjects investigated in 2023 (<strong>Figure 3</strong>).</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 802.656px;" height="auto" width="100%" alt="" src="https://www.cpib.gov.sg/images/Graph_4.png">
 </div>
 <p><strong><em><u>High Conviction Rate Maintained</u></em></strong>
 </p>
-<p>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The conviction rate for CPIB cases
-in 2023 was maintained at 99% (<strong>Figure 4</strong>). The consistently
-high conviction rate for CPIB cases is testament to the quality of the
-Bureau’s investigation to be able to stand up to scrutiny in Court, as
-well as the close working relationship between CPIB and the Attorney-General’s
-Chambers (AGC) in bringing corrupt offenders to task.</p>
+<p>6.&nbsp;The conviction rate for CPIB cases in 2023 was maintained at 99%
+(<strong>Figure 4</strong>). The consistently high conviction rate for
+CPIB cases is testament to the quality of the Bureau’s investigation to
+be able to stand up to scrutiny in Court, as well as the close working
+relationship between CPIB and the Attorney-General’s Chambers (AGC) in
+bringing corrupt offenders to task.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 802.656px;" height="auto" width="100%" alt="" src="https://www.cpib.gov.sg/images/Graph_5.png">
 </div>
 <p><strong>Constant Vigilance is Critical to a Clean and Incorruptible System &nbsp;&nbsp;</strong>
 </p>
-<p>7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CPIB, working together with a citizenry
-attuned to the need for constant vigilance, must remain alert to ensure
-that the Singapore system remains clean and incorruptible. CPIB is grateful
-to vigilant members of the public as well as public officers who have readily
-come forward with information of suspected wrongdoing, including anonymous
-reports. This enables CPIB to investigate and uncover the truth so that
-corruption is unable to take root in Singapore.&nbsp;&nbsp; &nbsp;</p>
+<p>7.&nbsp;CPIB, working together with a citizenry attuned to the need for
+constant vigilance, must remain alert to ensure that the Singapore system
+remains clean and incorruptible. CPIB is grateful to vigilant members of
+the public as well as public officers who have readily come forward with
+information of suspected wrongdoing, including anonymous reports. This
+enables CPIB to investigate and uncover the truth so that corruption is
+unable to take root in Singapore.&nbsp;&nbsp; &nbsp;</p>
 <p><strong><em>Case 1 – Investigation against a Director-General of the Ministry of Foreign Affairs who deceived his ministry through the misuse of the diplomatic bag service</em></strong>
 </p>
 <p>On 18 January 2023, CPIB received information from the Airport Police
@@ -193,15 +191,15 @@ which had a connection with his official function as Minister for Transport.</p>
 under the <em>Prevention of Corruption Act </em>and the <em>Penal Code.</em> Subsequently,
 Iswaran was served with eight additional charges under section 165 of the <em>Penal Code </em>on
 25 March 2024.</p>
-<p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Strong public trust in our leaders
-and public institutions is a key tenet of our system of governance. It
-must not be taken for granted. CPIB is fortunate to operate within a national
-anti-corruption framework underpinned by firm and unwavering political
-will to fight corruption, and a public which eschews corruption. Case 6
-below, where CPIB was tasked by the Prime Minister to investigate the separate
-rentals of Ridout Road bungalows by two serving Cabinet Ministers, was
-testament to the strong commitment to uphold a system of governance with
-a high standard of integrity and accountability.</p>
+<p>8.&nbsp;Strong public trust in our leaders and public institutions is
+a key tenet of our system of governance. It must not be taken for granted.
+CPIB is fortunate to operate within a national anti-corruption framework
+underpinned by firm and unwavering political will to fight corruption,
+and a public which eschews corruption. Case 6 below, where CPIB was tasked
+by the Prime Minister to investigate the separate rentals of Ridout Road
+bungalows by two serving Cabinet Ministers, was testament to the strong
+commitment to uphold a system of governance with a high standard of integrity
+and accountability.</p>
 <p><strong><em>Case 6 – Investigation into the rental of Black and White Bungalows at 26 and 31 Ridout Road</em></strong>
 </p>
 <p>On 17 May 2023, the Bureau received instructions from the Prime Minister
@@ -227,16 +225,14 @@ on the fact that all transactions and communications were completely above
 board, CPIB dutifully reported this as part of our factual findings.</p>
 <p><strong>Instilling Incorruptibility into the DNA of Young Singaporeans</strong>
 </p>
-<p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Incorruptibility is a key part
-of the Singaporean DNA. To preserve this important value amongst young
-Singaporeans, CPIB continues to engage the community and youths to co-create
-anti-corruption education programmes.</p>
+<p>9.&nbsp;Incorruptibility is a key part of the Singaporean DNA. To preserve
+this important value amongst young Singaporeans, CPIB continues to engage
+the community and youths to co-create anti-corruption education programmes.</p>
 <p><strong><em><u>Multi-level Collaboration with Singapore Polytechnic, Straits Times and AGC - The Corruption Casebook 2: Hidden Victims of Corruption</u></em></strong>
 </p>
-<p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In a multi-agency collaboration, CPIB
-partnered with students from the Singapore Polytechnic Media, Arts &amp;
-Design School, a journalist from The Straits Times and the AGC on a new
-e-book for teenagers entitled <em>The Corruption Casebook 2: Hidden Victims of Corruption</em>.
+<p>10.&nbsp;In a multi-agency collaboration, CPIB partnered with students
+from the Singapore Polytechnic Media, Arts &amp; Design School, a journalist
+from The Straits Times and the AGC on a new e-book for teenagers entitled <em>The Corruption Casebook 2: Hidden Victims of Corruption</em>.
 This illustrative publication aims to educate their peers that corruption
 is not a victimless crime through an art-style depiction of actual CPIB
 cases. To complement the content, the e-book also features fresh insights
@@ -247,30 +243,28 @@ CPIB’s first publication of <em>The Corruption Casebook 2: Hidden Victims of C
 available for download on the CPIB website.</p>
 <p><strong><em><u>Partnership with Uniformed Groups –Anti-Corruption Badge Programme</u></em></strong>
 </p>
-<p>11.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; To enhance the education of young Singaporeans
-on anti-corruption and the role each person plays to combat corruption,
-CPIB partnered with the National Police Cadet Corps (NPCC) to implement
-the Anti-Corruption Badge Programme (ACBP) in 2021. The ACBP was later
-extended to the Singapore Scout Association (SSA) in 2023. The ACBP sets
-out to educate young Singaporeans on the pitfalls of corruption with an
-emphasis on the values of incorruptibility, honesty, and integrity through
-a series of interactive activities, games, and discussions. This includes
-a specially developed ‘<em>Crack the Case</em>’ activity where students
-take on the role of Corrupt Practices Investigation Officers to find elements
-of corruption and evidence of bribery to solve a mock case. A key component
-of the ACBP requires students to share their key learning points with their
-peers and educators, in order to amplify awareness of anti-corruption.
-To date, more than 5,000 students from NPCC and SSA have completed the
-ACBP.</p>
+<p>11.&nbsp;To enhance the education of young Singaporeans on anti-corruption
+and the role each person plays to combat corruption, CPIB partnered with
+the National Police Cadet Corps (NPCC) to implement the Anti-Corruption
+Badge Programme (ACBP) in 2021. The ACBP was later extended to the Singapore
+Scout Association (SSA) in 2023. The ACBP sets out to educate young Singaporeans
+on the pitfalls of corruption with an emphasis on the values of incorruptibility,
+honesty, and integrity through a series of interactive activities, games,
+and discussions. This includes a specially developed ‘<em>Crack the Case</em>’
+activity where students take on the role of Corrupt Practices Investigation
+Officers to find elements of corruption and evidence of bribery to solve
+a mock case. A key component of the ACBP requires students to share their
+key learning points with their peers and educators, in order to amplify
+awareness of anti-corruption. To date, more than 5,000 students from NPCC
+and SSA have completed the ACBP.</p>
 <p><strong>Conclusion</strong>
 </p>
-<p>12.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The corruption situation in Singapore
-remains firmly under control. CPIB is grateful for the unwavering support
-of a vigilant citizenry who play a vital role to combat corruption. CPIB
-remains strongly committed to work closely together with all segments of
-the community to keep Singapore corruption-free and ensure that the important
-value of incorruptibility continues to be instilled into the young and
-future generations of Singaporeans.&nbsp;&nbsp;</p>
+<p>12. The corruption situation in Singapore remains firmly under control.
+CPIB is grateful for the unwavering support of a vigilant citizenry who
+play a vital role to combat corruption. CPIB remains strongly committed
+to work closely together with all segments of the community to keep Singapore
+corruption-free and ensure that the important value of incorruptibility
+continues to be instilled into the young and future generations of Singaporeans.&nbsp;&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 802.656px;" height="auto" width="100%" alt="" src="https://www.cpib.gov.sg/images/Graph_6.png">
 </div>
