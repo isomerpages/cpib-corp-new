@@ -45,17 +45,6 @@ zero to 10, with zero being the best grade possible and 10 being the worst.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2021</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1/16</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1.68</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>2022</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -74,6 +63,17 @@ zero to 10, with zero being the best grade possible and 10 being the worst.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1.83</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1/16</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.09</p>
 </td>
 </tr>
 </tbody>
