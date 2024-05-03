@@ -2,7 +2,7 @@ collections:
   careers:
     output: true
     order:
-      - employee-value-proposition.md
+      - Employee Value Proposition.md
       - corrupt-practices-investigation-officer-cpio.md
       - management-executive.md
       - Behind The Scenes/.keep
