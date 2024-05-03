@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Employee Value Proposition.md
-      - corrupt-practices-investigation-officer-cpio.md
+      - Corrupt Practices Investigation Officer (CPIO).md
       - management-executive.md
       - Behind The Scenes/.keep
       - Behind The Scenes/a-game-of-chess.md
