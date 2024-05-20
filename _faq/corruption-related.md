@@ -25,6 +25,7 @@ one may have an official relationship with, one may want to consider being
 upfront with the recipient’s boss and employer. This would improve transparency
 and at the same time allow the recipient’s employer to assess if the recipient
 could be held beholden to the gifts.</p>
+<p></p>
 <p>Should you be in any doubt as to whether any particular transaction is
 corrupt, you can consult the CPIB Duty Officer at the CPIB HQ at 2 Lengkok
 Bahru, or the Corruption Reporting &amp; Heritage Centre at 247 Whitley
@@ -42,6 +43,7 @@ whether such payments or receipts are properly accounted for, and whether
 the receivers or the givers are allowed or authorised to accept or make
 such payments either by their company or the regulatory bodies relating
 to their profession.</p>
+<p></p>
 <p>Although it is not possible to list all instances where payment will be
 deemed to be corrupt, the law has held that one of the elements that is
 required to establish a corrupt transaction is that the transaction must
@@ -51,6 +53,7 @@ is given to an employee as an inducement or as a reward for gaining business
 advantage and/or is intended to influence the employee to act in such a
 way that compromises his employer’s interests. Each case must be assessed
 on its own merits to determine if it is a case of corruption.</p>
+<p></p>
 <p>Should you be in any doubt as to whether any particular transaction is
 corrupt, you can consult the CPIB Duty Officer at the CPIB HQ at 2 Lengkok
 Bahru, or the Corruption Reporting &amp; Heritage Centre at 247 Whitley
@@ -88,6 +91,7 @@ if they abet the commission of a corruption offence related to Singapore.</p>
 corruption. Where can I turn to for information?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>The CPIB website covers a comprehensive range of information about corruption.</p>
+<p></p>
 <p>We conduct Learning Journeys for students and Corruption Prevention Talks
 for both public and private organisations. Please refer to the e-Booking
 for Learning Journey and e-Booking for Public Education Talk for more details.</p>
