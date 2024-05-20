@@ -5,9 +5,9 @@ variant: tiptap
 ---
 <pre><code>&lt;input id="title1" type="checkbox"&gt;&lt;label for="title1"&gt;How do I make a corruption report?&lt;/label&gt;
 &lt;div class="accordion-content"&gt;
-&lt;p&gt;The CPIB takes a serious view of any corrupt practices in Singapore and will not hesitate to take action against any parties involved in corrupt practices. We strongly encourage those with information about corruption to use the following channels to reach us:&lt;/p&gt;
-&lt;p&gt;a) Write to us at 2 Lengkok Bahru, Singapore 159047&lt;br&gt;</code></pre>
-<p>b) Call CPIB Duty Officer at 1800-376-0000*
+&lt;p&gt;The CPIB takes a serious view of any corrupt practices in Singapore and will not hesitate to take action against any parties involved in corrupt practices. We strongly encourage those with information about corruption to use the following channels to reach us:&lt;/p&gt;</code></pre>
+<p>a) Write to us at 2 Lengkok Bahru, Singapore 159047
+<br>b) Call CPIB Duty Officer at 1800-376-0000*
 <br>c) Lodge an <a href="/e-services/e-complaint-for-corrupt-conduct/" rel="noopener noreferrer nofollow" target="_blank">e-complaint</a> 
 <br>d) Email us at: <a href="mailto: report@cpib.gov.sg" rel="noopener noreferrer nofollow" target="_blank">report@cpib.gov.sg</a> 
 <br>e) Fax to us at: 6270 0320</p>
