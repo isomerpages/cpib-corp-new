@@ -15,8 +15,8 @@ to use the following channels to reach us:
 <br>
 <br>a) Write to us at 2 Lengkok Bahru, Singapore 159047
 <br>b) Call CPIB Duty Officer at 1800-376-0000*
-<br>c) Lodge an <a href="https://www.cpib.gov.sg/e-services/e-complaint-for-corrupt-conduct/" rel="noopener noreferrer nofollow" target="_blank"><u>e-complaint</u></a>
-<br>d) Email us at: <a href="https://www.cpib.gov.sg/e-services/e-complaint-for-corrupt-conduct/" rel="noopener noreferrer nofollow" target="_blank"><u>report@cpib.gov.sg</u></a>
+<br>c) Lodge an <a href="https://www.cpib.gov.sg/e-services/e-complaint-for-corrupt-conduct/" rel="noopener noreferrer nofollow" target="_blank"><u>e-complaint</u></a> 
+<br>d) Email us at: <a href="https://www.cpib.gov.sg/e-services/e-complaint-for-corrupt-conduct/" rel="noopener noreferrer nofollow" target="_blank"><u>report@cpib.gov.sg</u></a> 
 <br>e) Fax to us at: 6270 0320</p>
 </div>
 </details>
@@ -73,7 +73,7 @@ message for us to return your call.</p>
 someone who claims that he/she is a "CPIB officer"?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>If you are unable to find an answer to your query, please submit your
-<a href="mailto:%20info@cpib.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Feedback</u>
+<a href="mailto:%20info@cpib.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Feedback</u> 
 </a>to let us know how we can help you.</p>
 </div>
 </details>
