@@ -12,7 +12,11 @@ description: ""
 will not hesitate to take action against any parties involved in corrupt
 practices. We strongly encourage those with information about corruption
 to use the following channels to reach us:</p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -31,7 +35,7 @@ to use the following channels to reach us:</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>Call CPIB Duty Officer at 1800-376-0000</p>
+<p>Call CPIB Duty Officer at 1800-376-0000*</p>
 </td>
 </tr>
 <tr>
@@ -71,3 +75,5 @@ to use the following channels to reach us:</p>
 to refer to <a href="/files/cases%20under%20public%20agencies%20(cpib).pdf" rel="noopener noreferrer nofollow" target="_blank">this list</a> of
 functions handled by other government agencies which may be able to assist
 with your queries.</p>
+<p>*Airtime charges apply for mobile calls made to "1800" local toll-free
+service numbers.</p>
