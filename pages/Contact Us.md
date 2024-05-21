@@ -4,7 +4,7 @@ permalink: /contact-us/
 variant: tiptap
 description: Contact Us
 ---
-<h1><strong>Get in touch with</strong> CPIB </h1>
+<h1><strong>Get in touch with CPIB</strong></h1>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -67,7 +67,7 @@ description: Contact Us
 <p><strong>REPORTING OF CORRUPTION COMPLAINTS</strong>
 </p>
 <p></p>
-<p><strong>1. CALL OUR DUTY OFFICER</strong>
+<p><strong>1. CALL OUR DUTY OFFICER</strong> 
 <br>Local &nbsp; 1800-376-0000*
 <br>Overseas &nbsp; (+65) 6376-0000</p>
 <p></p>
@@ -104,7 +104,7 @@ description: Contact Us
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>3. EMAIL US:  </strong><a href="mailto:report@cpib.gov.sg%3Cbr%3E%3Cbr%3E" rel="noopener noreferrer nofollow" target="_blank"><u>report@cpib.gov.sg</u></a>
+<p><strong>3. EMAIL US: </strong><a href="mailto:report@cpib.gov.sg%3Cbr%3E%3Cbr%3E" rel="noopener noreferrer nofollow" target="_blank"><u>report@cpib.gov.sg</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -113,7 +113,7 @@ description: Contact Us
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>4. WRITE TO US</strong>
+<p><strong>4. WRITE TO US</strong> 
 <br>2 Lengkok Bahru, Singapore 159047</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -137,7 +137,7 @@ description: Contact Us
 <p><strong>Hotline</strong> &nbsp; 1800-270-0855*
 <br>
 </p>
-<p><strong>Email      </strong><a href="mailto:QSM@cpib.gov.sg%3Cbr%3E%3Cbr%3E" rel="noopener noreferrer nofollow" target="_blank"><u>QSM@cpib.gov.sg</u></a>
+<p><strong>Email </strong><a href="mailto:QSM@cpib.gov.sg%3Cbr%3E%3Cbr%3E" rel="noopener noreferrer nofollow" target="_blank"><u>QSM@cpib.gov.sg</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
