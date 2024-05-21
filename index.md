@@ -15,6 +15,13 @@ sections:
       background: /images/hmpg_banner.jpg
       button: Report Corruption
       url: /e-services/e-complaint-for-corrupt-conduct/
+      key_highlights:
+        - title: e-Booking for Public Education Talk
+          description: ""
+          url: /e-services/e-booking-for-public-education-talk/
+        - title: e-Booking for Learning Journey
+          description: ""
+          url: /e-services/e-booking-for-learning-journey/
   - resources:
       title: Highlights
       button: VIEW ALL
