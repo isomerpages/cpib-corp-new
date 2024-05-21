@@ -60,5 +60,5 @@ sections:
         encrypted-media; gyroscope; picture-in-picture"
         allowfullscreen=""></iframe></div>
       button: More Videos
-      url: http://www.youtube.com/channel/UCpvRQUO1IcQcCJyVwl3sqjg
+      url: https://www.youtube.com/@CPIBsingapore
 ---
