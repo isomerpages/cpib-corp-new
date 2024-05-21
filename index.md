@@ -26,15 +26,14 @@ sections:
       title: Highlights
       button: VIEW ALL
   - infopic:
-      title: Corruzione Web Game
+      title: The Corruption Casebook 2
       subtitle: Resources
-      description: Corruzione is a Web Game that leverages on gamification to educate
-        on the far-reaching consequences of corruption in a fun and interactive
-        way.
+      description: features real-life cases and interactive activities which aim to
+        educate youth that corruption is not a victimless crime.
       button: LEARN MORE
-      url: /resources/corruzione-web-game/
-      image: /images/img_corruzione.png
-      alt: Corruzione Web Game
+      url: /corruption-casebook-2-hidden-victims-of-corruption/
+      image: /images/Corruption_Casebook_2_Cover.png
+      alt: The Corruption Casebook 2
   - infopic:
       title: Scrupulous, Thorough, Fearless - The CPIB Story
       subtitle: Resources
