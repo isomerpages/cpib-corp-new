@@ -37,32 +37,17 @@ sections:
   - infopic:
       title: Scrupulous, Thorough, Fearless - The CPIB Story
       subtitle: Resources
-      description: Scrupulous, Thorough, Fearless — The CPIB Story chronicles the
-        journey of the Corrupt Practices Investigation Bureau (CPIB) from its
-        beginnings to the present.
+      description: chronicles the journey of the Corrupt Practices Investigation
+        Bureau (CPIB) from its beginnings to the present.
       button: LEARN MORE
       url: /resources/cpib-history-book/
       image: /images/cpib history book.jpg
       alt: Scrupulous, Thorough, Fearless - The CPIB Story
   - infopic:
-      title: The Corruption Casebook – Stories From Under The Table
-      subtitle: Resources
-      description: Corruption has far-reaching consequences in various aspects of
-        society. As part of CPIB’s prevention and outreach efforts, the CPIB has
-        developed an e-Book titled "<b>The Corruption Casebook - Stories From
-        Under The Table</b>" featuring stories on past cases of corruption.
-      button: LEARN MORE
-      url: /resources/corruption-casebook/
-      image: /images/img_corruption_handbk.jpg
-      alt: The Corruption Casebook – Stories From Under The Table
-  - infopic:
       title: PACT- A Practical Anti-Corruption Guide for Businesses in Singapore
       subtitle: Resources
-      description: A clean business protects a company and employees from being caught
-        in thorny and compromising situations. As part of the CPIB’s commitment
-        to combat corruption in the private sector, we have developed <b>PACT -
-        A Practical Anti-Corruption Guide for Businesses in Singapore</b> to
-        help domestic business owners prevent corruption in their companies.
+      description: guides business owners in developing and implementing an
+        anti-corruption system in a clear and easy-to-understand manner.
       button: LEARN MORE
       url: /research-room/publications/anti-corruption-guide-for-businesses/
       image: /images/img_pact.jpg
