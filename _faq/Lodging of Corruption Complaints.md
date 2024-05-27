@@ -4,7 +4,6 @@ permalink: /faq/lodge-corruption-complaints/
 variant: tiptap
 description: ""
 ---
-<p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>How do I make a corruption report?</summary>
@@ -17,7 +16,7 @@ to use the following channels to reach us:
 <br>a) Write to us at 2 Lengkok Bahru, Singapore 159047
 <br>b) Call CPIB Duty Officer at 1800-376-0000*
 <br>c) Lodge an <a href="https://www.cpib.gov.sg/e-services/e-complaint-for-corrupt-conduct/" rel="noopener noreferrer nofollow" target="_blank"><u>e-complaint</u></a> 
-<br>d) Email us at: <a href="https://www.cpib.gov.sg/e-services/e-complaint-for-corrupt-conduct/" rel="noopener noreferrer nofollow" target="_blank"><u>report@cpib.gov.sg</u></a> 
+<br>d) Email us at: <a href="mailto:report@cpib.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>report@cpib.gov.sg</u></a> 
 <br>e) Fax to us at: 6270 0320</p>
 </div>
 </details>
@@ -35,13 +34,15 @@ made a false statement in his corruption complaint.</p>
 this Act shall be admitted in evidence in any civil or criminal proceeding
 whatsoever, and no witness shall be obliged or permitted to disclose the
 name or address of any informer, or state any matter which might lead to
-his discovery.
+his discovery.</p>
+<p>
 <br>2. If any books, documents or papers which are in evidence or liable to
 inspection in any civil or criminal proceeding whatsoever contain any entry
 in which any informer is named or described or which might lead to his
 discovery, the court before which the proceeding is had shall cause all
 such passages to be concealed from view or to be obliterated so far as
-is necessary to protect the informer from discovery, but no further.
+is necessary to protect the informer from discovery, but no further.</p>
+<p>
 <br>3. If on a trial for any offence under this Act the court, after full
 inquiry into the case, is of the opinion that the informer wilfully made
 in his complaint a material statement which he knew or believed to be false
@@ -73,14 +74,13 @@ message for us to return your call.</p>
 <summary>What should I do when I receive a "Notice to Appear" or a phone call from
 someone who claims that he/she is a "CPIB officer"?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>If you are unable to find an answer to your query, please submit your
-<a href="mailto:%20info@cpib.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Feedback</u> 
-</a>to let us know how we can help you.</p>
+<p>You can contact the CPIB Duty Officer hotline at 1800-376-0000 to verify
+if the person is a CPIB officer.</p>
 </div>
 </details>
 </div>
 <p></p>
 <p>If you are unable to find an answer to your query, please submit your
-<a href="mailto: info@cpib.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Feedback</a>to let us know how we can help you.</p>
+<a href="mailto:info@cpib.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Feedback</a>to let us know how we can help you.</p>
 <p>*Airtime charges apply for mobile calls made to "1800" local toll-free
 service numbers.</p>
