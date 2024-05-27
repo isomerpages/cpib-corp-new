@@ -20,3 +20,12 @@ of Design and Media.</p>
 </p>
 <p>For computers and laptops (Web build): <a href="https://www.go.gov.sg/mcorruzione" rel="noopener noreferrer nofollow" target="_blank"><u>go.gov.sg/corruzione</u></a>
 </p>
+<p></p>
+<p>Related Content:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/about-corruption/resources/" rel="noopener noreferrer nofollow" target="_blank">Resources</a>
+</p>
+</li>
+</ul>
+<p></p>
