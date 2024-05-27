@@ -11,7 +11,7 @@ description: ""
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/heritage-1871.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/heritage-1871.jpg">
 </div>
 <p><em>Image Courtesy of National Archives of Singapore</em>
 </p>
@@ -42,7 +42,7 @@ afforded by the POCO to investigation officers stifled their ability to
 effectively tackle corruption.</p>
 <hr>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/heritage-1946.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/heritage-1946.jpg">
 </div>
 <p></p>
 <p><strong>1946</strong>
@@ -59,9 +59,8 @@ had to contend with other branches of the Criminal Investigation Department
 inability to curtail the prevalence of police corruption in colonial Singapore.</p>
 <hr>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/heritage-1951.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/HRCPIB_Chp1_divider_016.png">
 </div>
-<p></p>
 <p><strong>1951</strong>
 </p>
 <p></p>
