@@ -18,6 +18,7 @@ anti-corruption framework, private sector case studies and other useful
 anti-corruption resources.</p>
 <p><a href="https://staging.d3tuwn337zvlr.amplifyapp.com/files/pact_2018.pdf" rel="noopener noreferrer nofollow" target="_blank">PACT: A Practical Anti-Corruption Guide for Businesses in Singapore</a>
 </p>
+<p></p>
 <p>Related Content:</p>
 <ul data-tight="true" class="tight">
 <li>
