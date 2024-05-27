@@ -26,3 +26,12 @@ has since been one of the pillars of the nation’s economic success.</p>
 <p><em>Scrupulous, Thorough, Fearless — The CPIB Story</em> is currently on
 sale across major bookstores in Singapore. Part of the proceeds from the
 sale of the History Book will be donated to Community Chest.</p>
+<p></p>
+<p>Related Content:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/about-corruption/resources/" rel="noopener noreferrer nofollow" target="_blank">Resources</a>
+</p>
+</li>
+</ul>
+<p></p>
