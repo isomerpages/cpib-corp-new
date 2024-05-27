@@ -22,7 +22,7 @@ anti-corruption resources.</p>
 <p>Related Content:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://staging.d3tuwn337zvlr.amplifyapp.com/about-corruption/prevention-and-education/resources/" rel="noopener noreferrer nofollow" target="_blank">Resources</a>
+<p><a href="/about-corruption/resources/" rel="noopener noreferrer nofollow" target="_blank">Resources</a>
 </p>
 </li>
 </ul>
