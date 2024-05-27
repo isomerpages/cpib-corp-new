@@ -22,3 +22,12 @@ third_nav_title: Resources
 <p>Download at the link below:</p>
 <p><a href="https://www.cpib.gov.sg/files/brochure-2017-final.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Stop Corruption Informational Brochure (pdf - 3.4 MB)</u></a>
 </p>
+<p></p>
+<p>Related Content:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/about-corruption/resources/" rel="noopener noreferrer nofollow" target="_blank">Resources</a>
+</p>
+</li>
+</ul>
+<p></p>
