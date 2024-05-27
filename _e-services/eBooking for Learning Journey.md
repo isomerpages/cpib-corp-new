@@ -4,9 +4,6 @@ permalink: /e-services/e-booking-for-learning-journey/
 variant: tiptap
 description: ""
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Learning Journey" src="/images/book_learning-journey.jpg">
-</div>
 <h3><strong>LEARNING JOURNEY</strong></h3>
 <p>The <strong>Learning Journeys</strong> for students create awareness about
 the ills and consequences of corruption, and how these can impact us.</p>
