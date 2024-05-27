@@ -22,10 +22,10 @@ description: ""
 that corrupt offenders were unlikely to be detected and punished. In 1871,
 corruption was made illegal. However, nothing concrete was done.</p>
 <hr>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/heritage-1937.jpg">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/HRCPIB_Chp2_PCAdocuments_008.png">
+</div>
 <p><strong>1937</strong>
 </p>
 <p></p>
