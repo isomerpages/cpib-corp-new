@@ -24,7 +24,7 @@ all that we do. We are looking for individuals who share the same excitement
 and passion about the anti-corruption cause!</p>
 <p>CPIB is where purpose meets profession – come, be part of something bigger!</p>
 <div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Orchid_signature.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Orchid_signature.png">
 </div>
 <p><strong><em>Grow with CPIB</em></strong>
 </p>
@@ -45,6 +45,6 @@ achievements together, overcome challenges as a team and forge friendships
 that last a lifetime! You can look forward to fun-filled corporate activities
 such as sports-related events, fruits fiesta, games day and many more!</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CPIB_Family.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CPIB_Family.png">
 </div>
 <p></p>
