@@ -85,9 +85,7 @@ description: Contact Us
 <p></p>
 <p><strong>Hotline</strong> &nbsp; 6270-0141</p>
 <p></p>
-<p><strong>Email</strong>
-</p>
-<p><a href="mailto:info@cpib.gov.sg%3Cbr%3E%3Cbr%3E" rel="noopener noreferrer nofollow" target="_blank"><u>info@cpib.gov.sg</u></a>
+<p><strong>Email        </strong><a href="mailto:info@cpib.gov.sg%3Cbr%3E%3Cbr%3E" rel="noopener noreferrer nofollow" target="_blank"><u>info@cpib.gov.sg</u></a>
 </p>
 <p></p>
 <p><strong>Fax No.</strong> &nbsp; 6270-0320</p>
@@ -132,12 +130,12 @@ description: Contact Us
 <tr>
 <td rowspan="1" colspan="1">
 <h4>QUALITY SERVICE MANAGER<br></h4>
-<p>For service related matters, you may contact us at</p>
+<p>For service related matters, you may contact us at:</p>
 <p></p>
 <p><strong>Hotline</strong> &nbsp; 1800-270-0855*
 <br>
 </p>
-<p><strong>Email </strong><a href="mailto:QSM@cpib.gov.sg%3Cbr%3E%3Cbr%3E" rel="noopener noreferrer nofollow" target="_blank"><u>QSM@cpib.gov.sg</u></a>
+<p><strong>Email      </strong><a href="mailto:QSM@cpib.gov.sg%3Cbr%3E%3Cbr%3E" rel="noopener noreferrer nofollow" target="_blank"><u>QSM@cpib.gov.sg</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
