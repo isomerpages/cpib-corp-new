@@ -4,9 +4,6 @@ permalink: /e-services/e-booking-for-public-education-talk/
 variant: tiptap
 description: ""
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Public Education Talk" src="/images/book_public-edu-talk.jpg">
-</div>
 <h3><strong>PUBLIC EDUCATION TALK</strong></h3>
 <p>The Corrupt Practices Investigation Bureau conducts Public Education Talks
 for government agencies and private companies. The participants can expect
