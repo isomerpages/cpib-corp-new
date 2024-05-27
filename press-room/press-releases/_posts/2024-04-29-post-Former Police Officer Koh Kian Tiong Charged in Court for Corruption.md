@@ -39,7 +39,7 @@ sentenced to imprisonment of up to five years or to both.</p>
 complaints and reports, <strong><u>including anonymous ones</u></strong>,
 and can be reached via the following channels:</p>
 <p>a) Lodge an <a href="https://www.cpib.gov.sg/e-services/e-complaint-for-corrupt-conduct/" rel="noopener noreferrer nofollow" target="_blank"><u>e-Complaint</u></a>;
-<br>b) Email us at <a href="https://www.cpib.gov.sg/e-services/e-complaint-for-corrupt-conduct/" rel="noopener noreferrer nofollow" target="_blank"><u>report@cpib.gov.sg</u></a>;&nbsp;
+<br>b) Email us at <a href="mailto:report@cpib.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>report@cpib.gov.sg</u></a>;&nbsp;
 <br>c) Call the Duty Officer at <a href="tel:1800-376-0000" rel="noopener noreferrer nofollow" target="_blank"><u>1800-376-0000</u></a>; or
 <br>d) Write to us at the CPIB Headquarters @ 2 Lengkok Bahru, S159047.</p>
 <p></p>
