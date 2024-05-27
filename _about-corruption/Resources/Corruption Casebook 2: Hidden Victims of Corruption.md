@@ -31,3 +31,12 @@ corruption before.</p>
 <p><a href="https://www.cpib.gov.sg/files/the-corruption-casebook.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>The Corruption Casebook - Stories From Under The Table</u></a>
 </p>
 <p>If you have any feedback, we would like to hear from you at <a href="mailto: info@cpib.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>info@cpib.gov.sg</u></a>.</p>
+<p></p>
+<p>Related Content:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/about-corruption/resources/" rel="noopener noreferrer nofollow" target="_blank">Resources</a>
+</p>
+</li>
+</ul>
+<p></p>
