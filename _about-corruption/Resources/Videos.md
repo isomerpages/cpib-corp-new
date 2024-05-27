@@ -78,3 +78,12 @@ blinded by greed. Corruption can have far-reaching consequences.</p>
 <p></p>
 <p>For more videos, click <a href="https://www.youtube.com/user/CPIBsingapore" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>
 </p>
+<p></p>
+<p>Related Content:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/about-corruption/resources/" rel="noopener noreferrer nofollow" target="_blank">Resources</a>
+</p>
+</li>
+</ul>
+<p></p>
