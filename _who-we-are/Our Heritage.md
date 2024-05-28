@@ -9,7 +9,6 @@ description: ""
 <summary>Before 1952</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/heritage-1871.jpg">
 </div>
@@ -148,7 +147,6 @@ years.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/heritage-1963.jpg">
 </div>
-<p></p>
 <p><strong>1963</strong>
 </p>
 <p></p>
@@ -237,7 +235,7 @@ all corrupt offenders regardless of ranks and affiliations.</p>
 <hr>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/HRStatutes.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/HRStatutes_edited.png">
 </div>
 <p><strong>1989</strong>
 </p>
@@ -258,7 +256,7 @@ of Benefits Act), Chapter 65(A) in 1999.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/heritage-1994.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/heritage-1994.jpg">
 </div>
 <p></p>
 <p><strong>1994</strong>
@@ -275,9 +273,8 @@ people that no matter how influential or senior a person’s rank or position
 may be, corrupt offenders would be investigated and punished accordingly.</p>
 <hr>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/heritage-1995.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/HRCPIB_Chp5_polygraph_073.png">
 </div>
-<p></p>
 <p><strong>1995</strong>
 </p>
 <p></p>
@@ -292,9 +289,8 @@ the least corrupt economic entity in Asia based on the Political &amp;
 Economic Risk Consultancy (PERC) annual surveys.</p>
 <hr>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/heritage-1997.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/HR1129_CQRT_4.png">
 </div>
-<p></p>
 <p><strong>1997</strong>
 </p>
 <p></p>
@@ -311,9 +307,8 @@ basic training, customised to equip new officers with the basic survival
 skills to handle investigation of corruption offences.</p>
 <hr>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/heritage-1998.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/HRCantonment_Road_Days.png">
 </div>
-<p></p>
 <p><strong>1998</strong>
 </p>
 <p></p>
@@ -328,7 +323,7 @@ the ‘CPIB Exhibition Room’.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/heritage-2002.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/heritage-2002.jpg">
 </div>
 <p></p>
 <p><strong>2002</strong>
@@ -343,9 +338,8 @@ the dot on top of the letter ‘I’ within the typography stands for the Bureau
 vigilance and vision to be the world’s best anti-corruption agency.</p>
 <hr>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/heritage-2004.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/HRLengkok_Bahru_Days.png">
 </div>
-<p></p>
 <p><strong>2004</strong>
 </p>
 <p></p>
@@ -358,7 +352,7 @@ and cultivate a sense of pride and belonging.</p>
 <hr>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/heritage-2005.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/heritage-2005.jpg">
 </div>
 <p></p>
 <p><strong>2005</strong>
@@ -376,7 +370,7 @@ also establishes networks and partnerships with various countries to facilitate
 cooperation amongst agencies in the anti-corruption arena.</p>
 <hr>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/heritage-2009.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/heritage-2009.jpg">
 </div>
 <p></p>
 <p><strong>2009</strong>
@@ -397,9 +391,8 @@ a more vigilant citizenry subsequently.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/heritage-2012.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/HR184.png">
 </div>
-<p></p>
 <p><strong>2012</strong>
 </p>
 <p></p>
