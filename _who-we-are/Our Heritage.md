@@ -204,9 +204,8 @@ this political will in an impartial manner.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/heritage-1984.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/HRHill_Street_Days.png">
 </div>
-<p></p>
 <p><strong>1984</strong>
 </p>
 <p></p>
@@ -217,9 +216,8 @@ norms. Few significant changes were also introduced which helped improve
 the Bureau’s operations.</p>
 <hr>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/heritage-1986.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/HRCPIB_case_Letter_19.png">
 </div>
-<p></p>
 <p><strong>1986</strong>
 </p>
 <p></p>
@@ -237,10 +235,10 @@ was satisfied with CPIB’s impartiality. The CPIB’s formidable reputation
 has been enhanced through its thorough and fearless investigations against
 all corrupt offenders regardless of ranks and affiliations.</p>
 <hr>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/heritage-1989.jpg">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/HRStatutes.png">
+</div>
 <p><strong>1989</strong>
 </p>
 <p></p>
