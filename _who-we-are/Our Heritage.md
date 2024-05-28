@@ -85,7 +85,7 @@ to review the deficiencies in the ACB’s investigation of the opium heist.
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/heritage-1952.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/HRSupreme_Court_Days.png">
 </div>
 <p><em>Bels Collection, Image Courtesy of National Archives of Singapore</em>
 </p>
@@ -134,11 +134,9 @@ That year, the CPIB was transferred to the Ministry of Home Affairs.</p>
 <summary>1960 - 1970</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/heritage-1961.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/HRStamford_Road.png">
 </div>
-<p></p>
 <p><strong>1960</strong>
 </p>
 <p></p>
@@ -147,7 +145,6 @@ building at Stamford Road. This building was sited right next to the former
 National Library building and it remained CPIB's office for the next 24
 years.</p>
 <hr>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/heritage-1963.jpg">
 </div>
@@ -161,9 +158,8 @@ Office, but was later transferred to the Attorney-General’s Chamber in
 since remained under the PMO.</p>
 <hr>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/heritage-1968.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/HRCPIB_Case_ChapJiKee_028_2.png">
 </div>
-<p></p>
 <p><strong>1968</strong>
 </p>
 <p></p>
