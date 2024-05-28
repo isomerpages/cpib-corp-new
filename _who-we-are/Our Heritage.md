@@ -21,7 +21,6 @@ description: ""
 that corrupt offenders were unlikely to be detected and punished. In 1871,
 corruption was made illegal. However, nothing concrete was done.</p>
 <hr>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/HRCPIB_Chp2_PCAdocuments_008.png">
 </div>
@@ -233,7 +232,6 @@ was satisfied with CPIB’s impartiality. The CPIB’s formidable reputation
 has been enhanced through its thorough and fearless investigations against
 all corrupt offenders regardless of ranks and affiliations.</p>
 <hr>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/HRStatutes_edited.png">
 </div>
@@ -258,7 +256,6 @@ of Benefits Act), Chapter 65(A) in 1999.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/heritage-1994.jpg">
 </div>
-<p></p>
 <p><strong>1994</strong>
 </p>
 <p></p>
@@ -354,7 +351,6 @@ and cultivate a sense of pride and belonging.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/heritage-2005.jpg">
 </div>
-<p></p>
 <p><strong>2005</strong>
 </p>
 <p></p>
@@ -372,7 +368,6 @@ cooperation amongst agencies in the anti-corruption arena.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/heritage-2009.jpg">
 </div>
-<p></p>
 <p><strong>2009</strong>
 </p>
 <p></p>
