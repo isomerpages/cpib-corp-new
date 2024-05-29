@@ -18,7 +18,7 @@ of Design and Media.</p>
 <p>Click the link below to play the game -</p>
 <p>For iPads, tablets and mobile devices (Mobile build): <a href="https://www.go.gov.sg/mcorruzione" rel="noopener noreferrer nofollow" target="_blank"><u>go.gov.sg/mcorruzione</u></a>
 </p>
-<p>For computers and laptops (Web build): <a href="https://www.go.gov.sg/mcorruzione" rel="noopener noreferrer nofollow" target="_blank"><u>go.gov.sg/corruzione</u></a>
+<p>For computers and laptops (Web build): <a href="https://www.go.gov.sg/corruzione" rel="noopener noreferrer nofollow" target="_blank"><u>go.gov.sg/corruzione</u></a>
 </p>
 <p></p>
 <p>Related Content:</p>
