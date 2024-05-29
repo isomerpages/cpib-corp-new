@@ -29,7 +29,7 @@ sections:
       description: features real-life cases and interactive activities which aim to
         educate youth that corruption is not a victimless crime.
       button: LEARN MORE
-      url: /corruption-casebook-2-hidden-victims-of-corruption/
+      url: /corruption-casebook-2/
       image: /images/Corruption_Casebook_2_Cover.png
       alt: The Corruption Casebook 2
   - infopic:
