@@ -38,7 +38,7 @@ sections:
       description: chronicles the journey of the Corrupt Practices Investigation
         Bureau (CPIB) from its beginnings to the present.
       button: LEARN MORE
-      url: /resources/cpib-history-book/
+      url: /about-corruption/resources/scrupulous-thorough-fearless-the-cpib-story/
       image: /images/cpib history book.jpg
       alt: Scrupulous, Thorough, Fearless - The CPIB Story
   - infopic:
