@@ -74,7 +74,7 @@ message for us to return your call.</p>
 <summary>What should I do when I receive a "Notice to Appear" or a phone call from
 someone who claims that he/she is a "CPIB officer"?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>You can contact the CPIB Duty Officer hotline at 1800-376-0000 to verify
+<p>You can contact the CPIB Duty Officer hotline at 1800-376-0000* to verify
 if the person is a CPIB officer.</p>
 </div>
 </details>
