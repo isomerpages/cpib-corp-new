@@ -59,7 +59,7 @@ description: Contact Us
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>1. Call our Duty Officer</strong> 
+<p><strong>1. Call our Duty Officer</strong>
 </p>
 <p>
 <br>Local: 1800-376-0000*
@@ -122,11 +122,7 @@ description: Contact Us
 <br>
 </p>
 <p><strong>Hotline:</strong> 6270-0141
-<br>
-</p>
-<p><strong>Email: </strong><a href="mailto:info@cpib.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>info@cpib.gov.sg<br></u></a>
-</p>
-<p><strong>Fax No.:</strong> 6270-0320</p>
+<br><strong>Email: </strong><a href="mailto:info@cpib.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>info@cpib.gov.sg<br></u></a><strong>Fax No.:</strong> 6270-0320</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -142,9 +138,7 @@ description: Contact Us
 <p>For service related matters, you may contact us at:</p>
 <p></p>
 <p><strong>Hotline:</strong> 1800-270-0855*
-<br>
-</p>
-<p><strong>Email: </strong><a href="mailto:QSM@cpib.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>QSM@cpib.gov.sg</u></a>
+<br><strong>Email: </strong><a href="mailto:QSM@cpib.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>QSM@cpib.gov.sg</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
