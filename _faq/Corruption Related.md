@@ -27,7 +27,7 @@ and at the same time allow the recipient’s employer to assess if the recipient
 could be held beholden to the gifts.</p>
 <p></p>
 <p>Should you be in any doubt as to whether any particular transaction is
-corrupt, you can consult the CPIB Duty Officer at our hotline: 1800 – 3760000*.</p>
+corrupt, you can consult the CPIB Duty Officer at our hotline: 1800 – 376-0000*.</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -52,7 +52,7 @@ way that compromises his employer’s interests. Each case must be assessed
 on its own merits to determine if it is a case of corruption.</p>
 <p></p>
 <p>Should you be in any doubt as to whether any particular transaction is
-corrupt, you can consult the CPIB Duty Officer at our hotline: 1800 – 3760000*.</p>
+corrupt, you can consult the CPIB Duty Officer at our hotline: 1800 – 376-0000*.</p>
 </div>
 </details>
 <details class="isomer-details">
