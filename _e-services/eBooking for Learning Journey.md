@@ -1,5 +1,5 @@
 ---
-title: eBooking for Learning Journey
+title: e-Booking for Learning Journey
 permalink: /e-services/e-booking-for-learning-journey/
 variant: tiptap
 description: ""
