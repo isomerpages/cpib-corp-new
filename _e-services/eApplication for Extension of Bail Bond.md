@@ -1,5 +1,5 @@
 ---
-title: eApplication for Extension of Bail Bond
+title: e-Application for Extension of Bail Bond
 permalink: /e-services/e-bail-extension/
 variant: tiptap
 description: ""
