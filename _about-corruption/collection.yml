@@ -1,0 +1,29 @@
+collections:
+  about-corruption:
+    output: true
+    order:
+      - Resources/.keep
+      - Resources/Resources.md
+      - "Resources/Corruption Casebook 2: Hidden Victims of Corruption.md"
+      - "Resources/Scrupulous, Thorough, Fearless: The CPIB Story.md"
+      - Resources/Corruzione Web Game.md
+      - Resources/PACT.md
+      - Resources/SS ISO 37001.md
+      - Resources/Videos.md
+      - Resources/Downloads.md
+      - Resources/Informational Brochures.md
+      - Prevention & Education/.keep
+      - Prevention & Education/Definition Of Corruption.md
+      - Prevention & Education/Singapore's Corruption Control Framework.md
+      - Prevention & Education/Prevention Of Corruption.md
+      - Prevention & Education/Management Of Corruption Complaints.md
+      - Prevention & Education/Reporting Of Corruption Complaints.md
+      - Legislation & Enforcement/.keep
+      - Legislation & Enforcement/Introduction.md
+      - Legislation & Enforcement/Prevention Of Corruption Act.md
+      - Legislation & Enforcement/Corruption, Drug Trafficking And Other Serious
+        Crimes (Confiscation of Benefits) Act.md
+      - Case Studies/.keep
+      - Case Studies/public-sector.md
+      - Case Studies/private-sector.md
+      - Case Studies/stories-of-integrity.md

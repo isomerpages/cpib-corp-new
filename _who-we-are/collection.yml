@@ -1,0 +1,13 @@
+collections:
+  who-we-are:
+    output: true
+    order:
+      - Our Corporate Philosophy/.keep
+      - Our Corporate Philosophy/Mission, Vision, Core Values.md
+      - Our Corporate Philosophy/Pledge.md
+      - Our Corporate Philosophy/Quality Policy.md
+      - Our Corporate Philosophy/Logo & Flag.md
+      - Our Work/.keep
+      - Our Work/roles-functions.md
+      - Our Work/international-engagement.md
+      - Our Heritage.md
