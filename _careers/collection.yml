@@ -1,0 +1,11 @@
+collections:
+  careers:
+    output: true
+    order:
+      - Employee Value Proposition.md
+      - Corrupt Practices Investigation Officer (CPIO).md
+      - Management Executive.md
+      - Behind The Scenes/.keep
+      - Behind The Scenes/A Game Of Chess.md
+      - Behind The Scenes/The Human Touch.md
+      - Behind The Scenes/Respect Is Earned.md
