@@ -21,6 +21,10 @@ and interactive activities.</p>
 <p><a href="https://go.gov.sg/the-corruption-casebook-2-part-2" rel="noopener noreferrer nofollow" target="_blank">The Corruption Casebook 2 - Hidden Victims of Corruption (Part 2)</a>
 </p>
 <hr>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Corruption_Casebook_Cover.jpg">
+</div>
 <p><strong>The Corruption Casebook - Stories From Under The Table</strong>
 </p>
 <p>Corruption has far-reaching consequences in various aspects of society.
