@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Resources
 ---
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/corruption-casebook-2-hidden-victims-of-corruption/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Corruption Casebook 2" src="/images/Corruption_Casebook_2_Cover.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Corruption Casebook 2: Hidden Victims of Corruption</div><div class="isomer-card-link">Click here</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/about-corruption/resources/corruption-casebook-2/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Corruption Casebook 2" src="/images/Corruption_Casebook_2_Cover.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Corruption Casebook 2: Hidden Victims of Corruption</div><div class="isomer-card-link">Click here</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/about-corruption/resources/scrupulous-thorough-fearless-the-cpib-story/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
