@@ -19,7 +19,6 @@ and interactive activities.</p>
 <p><a href="https://www.cpib.gov.sg/files/the-corruption-casebook-2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>The Corruption Casebook 2 - Hidden Victims of Corruption</u></a>
 </p>
 <p></p>
-<p>Read on to find out more about Corruption Casebook 1.</p>
 <hr>
 <p><strong>The Corruption Casebook - Stories From Under The Table</strong>
 </p>
