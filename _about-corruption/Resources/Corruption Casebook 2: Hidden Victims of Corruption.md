@@ -16,9 +16,10 @@ This resource aims to educate youth that corruption is not a victimless
 crime and its pitfalls through vivid illustration of actual CPIB cases
 and interactive activities.</p>
 <p>Download at the link below:</p>
-<p><a href="https://www.cpib.gov.sg/files/the-corruption-casebook-2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>The Corruption Casebook 2 - Hidden Victims of Corruption</u></a>
+<p><a href="https://go.gov.sg/the-corruption-casebook-2-part-1" rel="noopener noreferrer nofollow" target="_blank"><u>The Corruption Casebook 2 - Hidden Victims of Corruption (Part 1)</u></a>
 </p>
-<p></p>
+<p><a href="https://go.gov.sg/the-corruption-casebook-2-part-2" rel="noopener noreferrer nofollow" target="_blank">The Corruption Casebook 2 - Hidden Victims of Corruption (Part 2)</a>
+</p>
 <hr>
 <p><strong>The Corruption Casebook - Stories From Under The Table</strong>
 </p>
